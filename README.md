@@ -17,3 +17,8 @@ That's how it looks
 
 
 ![image](https://user-images.githubusercontent.com/114425094/192600205-d83dd84e-c61a-4a7f-aa07-8a92dd9baacb.png)
+
+
+Requirments:
+- Python >3.8
+- Python packages: pytube, moviepy, pyrogram (with tgcrypto)
