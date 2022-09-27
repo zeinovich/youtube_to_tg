@@ -10,9 +10,9 @@ The information about all processes is stored in podcast_data.json (mine is not 
 (Just for fun it is converted to .csv file for simple visualization with framing.py)
 
 NOTE:
-
-if video is short and getting processed fast, Youtube tends to temporarily block your IP
-somewhy thumbs are not shown on lock screen (iOS)
+ - if video is short and getting processed fast, Youtube tends to temporarily block your IP
+ - somewhy thumbs are not shown on lock screen (iOS)
+ 
 That's how it looks
 
 
