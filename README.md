@@ -12,6 +12,7 @@ It gets link to youtube playlist, downloads .mp4, extracts .mp3 and uploads to y
 NOTE:
  - if video is short and getting processed fast, Youtube tends to temporarily block your IP
  - somewhy thumbs are not shown on lock screen (iOS)
+ - raises error on 2 particular videos (KeyError: streamingData), others work fine
  
 That's how it looks
 
