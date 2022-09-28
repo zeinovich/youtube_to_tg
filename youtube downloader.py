@@ -69,9 +69,9 @@ def download_link(title, database: dict) -> None:
         you_download = you_video.streams.get_highest_resolution()
         print(f'    {you_download.filesize/1024/1024:.2f} Mb')
         try:
-            you_download.download('path/to/folder/video', filename=f'{title}.mp4')
+            you_download.download(f'{path}/video', filename=f'{title}.mp4')
             database[title]['Video'] = True
-            database[title]['Path'] = f'path/to/folder/video/{title}.mp4'
+            database[title]['Path'] = f'{path}/video/{title}.mp4'
             database[title]['Duration'] = you_video.length
             database[title]['Thumb'] = you_video.thumbnail_url
             sys.stdout.write("\033[K")
@@ -89,7 +89,7 @@ def get_audio(title, database) -> None:
         if not database[title]['Audio']:
             video = moviepy.editor.VideoFileClip(f)
             audio = video.audio
-            audio_path = f'path/to/folder/audio/{title}.mp3'
+            audio_path = f'{path}/audio/{title}.mp3'
             audio.write_audiofile(audio_path)
             database[title]['Audio'] = True
             database[title]['Audio Path'] = audio_path
@@ -101,7 +101,7 @@ def get_audio(title, database) -> None:
 def download_thumb(title, database):
     url = database[title]['Thumb']
     thumb = requests.get(url, allow_redirects=True)
-    f = f'path/to/folder/thumbnails/{title}.png'
+    f = f'{path}/thumbnails/{title}.png'
     open(f, 'wb').write(thumb.content)
     database[title]['Thumb'] = f
 
@@ -120,7 +120,9 @@ def tg_upload(title, database: dict) -> None:
 
 @timing_wrapper
 def main():    
-    os.chdir('path/to/folder')
+    global path 
+    path = 'path/to/folder'
+    os.chdir(f'{path}')
     Path('video').mkdir(exist_ok=True)
     Path('audio').mkdir(exist_ok=True)
     Path('thumbnails').mkdir(exist_ok=True)
