@@ -1,5 +1,5 @@
 # youtube_to_tg
-Due to recent political issues, Spotify and Youtube suspended their subscriptions in Russia. As avid podcast listener, I felt frustrated not able to listen to any eng podcast without having youtube always opened on my phone. So I decided to build this project. It took me about a month of time-to-time work to get it smooth. (Important to note, I didn't get deep into youtube's policy on that, so I keep my channel anonymous here)
+Due to recent political issues, Spotify and Youtube have suspended their subscriptions in Russia. As avid podcast listener, I felt frustrated not able to listen to any eng podcast without having youtube always opened on my phone. So I decided to build this project. It took me about a month of time-to-time work to get it smooth. (Important to note, I didn't get deep into youtube's policy on that, so I keep my channel anonymous here)
 
 It gets link to youtube playlist, downloads .mp4, extracts .mp3 and uploads to your channel of choice
 
