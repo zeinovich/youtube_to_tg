@@ -6,6 +6,7 @@ import functools
 from pyrogram import Client
 import json
 import requests
+from config import api_id, api_hash, channel_name, playlist_links, path
 
 #counter decorator
 class counter:
@@ -45,7 +46,8 @@ def to_database(link, database: dict) -> dict:
         you_video = YouTube(link)
 
     except Exception:
-        print(f"Link #{links.index(link)+1} has an error in it")
+        print(f"[ERROR] Link #{links.index(link)+1} has an error in it")
+
     title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
     performer = you_video.author
     if title not in database.keys():
@@ -62,7 +64,7 @@ def download_link(title, database: dict) -> None:
         you_video = YouTube(link)
 
     except Exception:
-        print(f"Link #{links.index(link) + 1} has an error in it")
+        print(f"[ERROR] Link #{links.index(link) + 1} has an error in it")
 
     if not database[title]['Video']:
         print(f'    Downloading: {title}')
@@ -77,7 +79,7 @@ def download_link(title, database: dict) -> None:
             sys.stdout.write("\033[K")
             print('    Downloaded ')
         except Exception as e:
-            raise e
+            print(f'[ERROR] Exception raised while downloading {title}\n {e}')
     else:
         print('    Already downloaded')
 
@@ -112,7 +114,7 @@ def tg_upload(title, database: dict) -> None:
         performer = database[title]['Performer']
         duration = database[title]['Duration']
         thumb = database[title]['Thumb']
-        app.send_audio('@your_channel', path, performer=performer, title=title, duration=duration, thumb=thumb)
+        app.send_audio(f'{channel_name}', path, performer=performer, title=title, duration=duration, thumb=thumb)
         database[title]['Sent'] = True
         print('    Successfully')
     else:
@@ -120,17 +122,13 @@ def tg_upload(title, database: dict) -> None:
 
 @timing_wrapper
 def main():    
-    global path 
-    path = 'path/to/folder'
     os.chdir(f'{path}')
     Path('video').mkdir(exist_ok=True)
     Path('audio').mkdir(exist_ok=True)
     Path('thumbnails').mkdir(exist_ok=True)
 
-    playlists = ['link to playlist']
-
     global links 
-    links = get_urls(playlists)
+    links = get_urls(playlist_links)
 
     with open('podcast_data.json','r') as file:
         database = json.load(file)
@@ -139,9 +137,6 @@ def main():
         database = to_database(link, database)
 
     global app
-    api_id = 'your id'
-    api_hash = "your_hash"
-
     app = Client("tg_uploader", api_id=api_id, api_hash=api_hash)
     app.start()
 
@@ -156,7 +151,7 @@ def main():
             except KeyboardInterrupt:
                 print('-------Canceled--------')
             except Exception as e:
-                raise e
+                print(f'[ERROR] Exception raised while processing {title}\n{e}')
             finally:
                 with open('podcast_data.json','w') as file:
                     json.dump(database, file, indent=4)
