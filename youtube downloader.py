@@ -6,7 +6,7 @@ import functools
 from pyrogram import Client
 import json
 import requests
-from config import api_id, api_hash, channel_name, playlist_links, path
+from config import session, api_id, api_hash, channel_name, playlist_links, path
 
 #counter decorator
 class counter:
@@ -137,7 +137,7 @@ def main():
         database = to_database(link, database)
 
     global app
-    app = Client("tg_uploader", api_id=api_id, api_hash=api_hash)
+    app = Client(f"{session}", api_id=api_id, api_hash=api_hash)
     app.start()
 
     for title in database.keys():
