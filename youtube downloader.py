@@ -29,7 +29,7 @@ def timing_wrapper(func):
         print('--------------')
         result = func(*args, **kwargs)
         end = time.perf_counter()
-        print(f'    {func.__name__} executed in {(end - start):.3f}s')
+        print(f'[INFO] {func.__name__} executed in {(end - start):.3f}s')
         print('--------------\n')
         return result
     return timing
