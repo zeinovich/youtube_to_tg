@@ -1,10 +1,9 @@
 from pytube import YouTube, Playlist
 import os, time, sys
-import moviepy.editor
 from pathlib import Path
 import functools
 from pyrogram import Client
-import json
+import pandas as pd
 import requests
 from config import session, api_id, api_hash, channel_name, playlist_links, path
 
@@ -41,41 +40,47 @@ def get_urls(self) -> list:
         urls.extend(iter(pl_urls))
     return urls
 
-def to_database(link, database: dict) -> dict:
+def to_database(link, database: pd.DataFrame) -> pd.DataFrame:
     try:
         you_video = YouTube(link)
 
     except Exception:
         print(f"[ERROR] Link #{links.index(link)+1} has an error in it")
 
-    title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
-    performer = you_video.author
-    if title not in database.keys():
-        database[title] = {'Performer': performer, 'Link': link, 'Path': '', 
-                            'Video': False, 'Thumb': '', 'Audio': False, 'Duration': 0,
-                            'Audio Path': '', 'Sent': False, 'Processed': False} 
+    video_id = you_video.video_id
+    if video_id not in database.index:
+        title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
+        performer = you_video.author
+        database.loc[video_id, 'title'] = title
+        database.loc[video_id, 'performer'] = performer
+        database.loc[video_id, 'thumb'] = you_video.thumbnail_url   
+        database.loc[video_id, 'duration'] = you_video.length
+        database.loc[video_id, 'audio'] = False
+        database.loc[video_id, 'audio_path'] = None
+        database.loc[video_id, 'sent'] = False
+
     return database      
     
 @counter
 @timing_wrapper
-def download_link(title, database: dict) -> None:
-    link = database[title]['Link']
+def download_link(video_id, database: pd.DataFrame) -> None:
+    link = f'https://www.youtube.com/watch?v={video_id}'
     try:
         you_video = YouTube(link)
 
     except Exception:
         print(f"[ERROR] Link #{links.index(link) + 1} has an error in it")
 
-    if not database[title]['Video']:
+    if not database.loc[video_id, 'audio']:
+        title = database.loc[video_id, "title"]
         print(f'    Downloading: {title}')
-        you_download = you_video.streams.get_highest_resolution()
-        print(f'    {you_download.filesize/1024/1024:.2f} Mb')
+        you_download = you_video.streams.filter(only_audio=True).first()
+        print(f'    {you_download.filesize/1024/1024:.0f} Mb')
         try:
-            you_download.download(f'{path}/video', filename=f'{title}.mp4')
-            database[title]['Video'] = True
-            database[title]['Path'] = f'{path}/video/{title}.mp4'
-            database[title]['Duration'] = you_video.length
-            database[title]['Thumb'] = you_video.thumbnail_url
+            you_download.download(f'{path}/audio', filename=f'{title}.mp3')
+            database.loc[video_id, 'audio_path'] = f'{path}/audio/{title}.mp3'
+            database.loc[video_id, 'duration'] = you_video.length
+            database.loc[video_id, 'thumb'] = you_video.thumbnail_url
             sys.stdout.write("\033[K")
             print('    Downloaded ')
         except Exception as e:
@@ -83,55 +88,38 @@ def download_link(title, database: dict) -> None:
     else:
         print('    Already downloaded')
 
-def get_audio(title, database) -> None:
-    f = Path(database[title]['Path'])
-    ext = f.suffix
-    if ext == '.mp4':
-        f = str(f)
-        if not database[title]['Audio']:
-            video = moviepy.editor.VideoFileClip(f)
-            audio = video.audio
-            audio_path = f'{path}/audio/{title}.mp3'
-            audio.write_audiofile(audio_path)
-            database[title]['Audio'] = True
-            database[title]['Audio Path'] = audio_path
-            video.close()
-            audio.close()
-    else:
-        print("    Not a video")
-
-def download_thumb(title, database):
-    url = database[title]['Thumb']
+def download_thumb(video_id, database: pd.DataFrame) -> None:
+    url = database.loc[video_id, 'thumb']
     thumb = requests.get(url, allow_redirects=True)
-    f = f'{path}/thumbnails/{title}.png'
+    f = f'{path}/thumbnails/{video_id}.png'
     open(f, 'wb').write(thumb.content)
-    database[title]['Thumb'] = f
+    database.loc[video_id, 'thumb'] = f
 
-def tg_upload(title, database: dict) -> None:
-    if not database[title]['Sent']:
-        print('    Uploading to telegram channel')
-        path = database[title]['Audio Path']
-        performer = database[title]['Performer']
-        duration = database[title]['Duration']
-        thumb = database[title]['Thumb']
-        app.send_audio(f'{channel_name}', path, performer=performer, title=title, duration=duration, thumb=thumb)
-        database[title]['Sent'] = True
-        print('    Successfully')
-    else:
-        print('MP3 in tg')
+def tg_upload(video_id, database: pd.DataFrame) -> None:
+    print('    Uploading to telegram channel')
+
+    title = database.loc[video_id, 'title']
+    path = database.loc[video_id, 'audio_path']
+    performer = database.loc[video_id, 'performer']
+    duration = database.loc[video_id, 'duration']
+    thumb = database.loc[video_id, 'thumb']
+
+    app.send_audio(f'{channel_name}', path, performer=performer, title=title, duration=duration, thumb=thumb)
+    database.loc[video_id, 'sent'] = True
+
+    print('    Successfully')
 
 @timing_wrapper
 def main():    
     os.chdir(f'{path}')
-    Path('video').mkdir(exist_ok=True)
     Path('audio').mkdir(exist_ok=True)
     Path('thumbnails').mkdir(exist_ok=True)
 
     global links 
     links = get_urls(playlist_links)
 
-    with open('podcast_data.json','r') as file:
-        database = json.load(file)
+    with open('podcast_data.csv','r', encoding='utf8') as file:
+        database = pd.read_csv(file, index_col=0)
 
     for link in links:
         database = to_database(link, database)
@@ -140,21 +128,19 @@ def main():
     app = Client(f"{session}", api_id=api_id, api_hash=api_hash)
     app.start()
 
-    for title in database.keys():
-        if not database[title]['Processed']:
+    for video_id in database.index:
+        if not database.loc[video_id, 'sent']:
             try:
-                download_link(title, database)
-                download_thumb(title, database)
-                get_audio(title, database)
-                tg_upload(title, database)
-                database[title]['Processed'] = True
+                download_link(video_id, database)
+                download_thumb(video_id, database)
+                tg_upload(video_id, database)
             except KeyboardInterrupt:
                 print('-------Canceled--------')
             except Exception as e:
-                print(f'[ERROR] Exception raised while processing {title}\n{e}')
+                print(f'[ERROR] Exception raised while processing {video_id}\n[ERROR] {e}')
             finally:
-                with open('podcast_data.json','w') as file:
-                    json.dump(database, file, indent=4)
+                with open('podcast_data.csv','w', encoding='utf8') as file:
+                    database.to_csv(file)
 
     app.stop()
 

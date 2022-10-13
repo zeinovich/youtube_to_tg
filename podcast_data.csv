@@ -1,89 +1,2653 @@
-Title,Performer,Link,Path,Video,Audio,Audio Path,Sent,Processed,Thumb,Duration
+video_id,title,performer,description,duration,audio,audio_path,thumb,sent
+DTCmprPCDqc,"Dr Peter Attia: Exercise, Nutrition, Hormones for Vitality  Longevity  Huberman Lab Podcast #85",Andrew Huberman,"My guest this episode is Dr. Peter Attia, M.D., who trained at Stanford University School of Medicine, Johns Hopkins Hospital and the National Institutes of Health (NIH). Dr. Attia is host of The Drive podcast and is a world expert on behavioral approaches, nutritional interventions, supplementation and pharmacological techniques to improve lifespan, healthspan and athletic performance. We discuss how best to evaluate your health status using routine blood work, body scans and regular tests of physical strength and endurance. Dr. Attia explains what he uses with his patients to “back-cast” their health goals as a way to design their exercise and nutritional programs. We also discuss hormone modulation and replacement therapy for both men and women. We explain how cholesterol and related factors contribute to cardiovascular disease risk and how to monitor and mitigate that risk. Dr. Attia details various supplementation, nutrition, exercise and prescription approaches useful to people in every decade of life to improve vitality, reduce their risk of disease and increase the number of years sustaining peak cognitive and physical health. 
 
-"Dr Peter Attia: Exercise, Nutrition, Hormones for Vitality  Longevity  Huberman Lab Podcast #85",Andrew Huberman,https://www.youtube.com/watch?v=DTCmprPCDqc,"C:/Users/������/Desktop/youtube/video/Dr Peter Attia: Exercise, Nutrition, Hormones for Vitality  Longevity  Huberman Lab Podcast #85.mp4",True,True,"/Users/������/Desktop/youtube/audio/Dr Peter Attia: Exercise, Nutrition, Hormones for Vitality  Longevity  Huberman Lab Podcast #85.mp3",True,True,,
+#HubermanLab #PeterAttia #Longevity 
 
-Sleep Toolkit: Tools for Optimizing Sleep  Sleep-Wake Timing  Huberman Lab Podcast #84,Andrew Huberman,https://www.youtube.com/watch?v=h2aWYjSA1Jc,C:/Users/������/Desktop/youtube/video/Sleep Toolkit: Tools for Optimizing Sleep  Sleep-Wake Timing  Huberman Lab Podcast #84.mp4,True,True,/Users/������/Desktop/youtube/audio/Sleep Toolkit: Tools for Optimizing Sleep  Sleep-Wake Timing  Huberman Lab Podcast #84.mp3,True,True,,
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman 
+Thesis: https://takethesis.com/huberman 
+InsideTracker: https://insidetracker.com/huberman  
+Helix Sleep: https://helixsleep.com/huberman  
 
-Dr Emily Balcetis: Tools for Setting  Achieving Goals  Huberman Lab Podcast #83,Andrew Huberman,https://www.youtube.com/watch?v=7YGZZcXqKxE,C:/Users/������/Desktop/youtube/video/Dr Emily Balcetis: Tools for Setting  Achieving Goals  Huberman Lab Podcast #83.mp4,True,True,/Users/������/Desktop/youtube/audio/Dr Emily Balcetis: Tools for Setting  Achieving Goals  Huberman Lab Podcast #83.mp3,True,True,,
+Supplements from Momentous
+https://www.livemomentous.com/huberman
 
-Optimize  Control Your Brain Chemistry to Improve Health  Performance  Huberman Lab Podcast #80,Andrew Huberman,https://www.youtube.com/watch?v=T65RDBiB5Hs,C:/Users/������/Desktop/youtube/video/Optimize  Control Your Brain Chemistry to Improve Health  Performance  Huberman Lab Podcast #80.mp4,True,True,/Users/������/Desktop/youtube/audio/Optimize  Control Your Brain Chemistry to Improve Health  Performance  Huberman Lab Podcast #80.mp3,True,True,,
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
 
-Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools  Huberman Lab Podcast #79,Andrew Huberman,https://www.youtube.com/watch?v=UNCwdFxPtE8,C:/Users/������/Desktop/youtube/video/Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools  Huberman Lab Podcast #79.mp4,True,True,/Users/������/Desktop/youtube/audio/Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools  Huberman Lab Podcast #79.mp3,True,True,,
+Dr. Peter Attia
+Website: https://peterattiamd.com 
+The Peter Attia Drive Podcast: https://peterattiamd.com/podcast 
+Newsletter: https://peterattiamd.com/newsletter 
+Twitter: https://twitter.com/PeterAttiaMD 
+Instagram: https://www.instagram.com/peterattiamd 
+YouTube: https://www.youtube.com/c/PeterAttiaMD
+Facebook: https://www.facebook.com/peterattiamd
 
-Using Salt to Optimize Mental  Physical Performance  Huberman Lab Podcast #63,Andrew Huberman,https://www.youtube.com/watch?v=azb3Ih68awQ,C:/Users/������/Desktop/youtube/video/Using Salt to Optimize Mental  Physical Performance  Huberman Lab Podcast #63.mp4,True,True,/Users/������/Desktop/youtube/audio/Using Salt to Optimize Mental  Physical Performance  Huberman Lab Podcast #63.mp3,True,True,,
+Articles
+Strength & longevity: https://peterattiamd.com/ama27
+VO2 max & longevity: https://peterattiamd.com/how-does-vo2-max-correlate-with-longevity
 
-"Dr Justin Sonnenburg: How to Build, Maintain  Repair Gut Health  Huberman Lab Podcast #62",Andrew Huberman,https://www.youtube.com/watch?v=ouCWNRvPk20,"C:/Users/������/Desktop/youtube/video/Dr Justin Sonnenburg: How to Build, Maintain  Repair Gut Health  Huberman Lab Podcast #62.mp4",True,True,"/Users/������/Desktop/youtube/audio/Dr Justin Sonnenburg: How to Build, Maintain  Repair Gut Health  Huberman Lab Podcast #62.mp3",True,True,,
+Timestamps
+00:00:00 Assessing Health Status & Improving Vitality 
+00:02:51 Momentous Supplements 
+00:03:46 Thesis, InsideTracker, Helix Sleep 
+00:07:29 Lifespan: Bloodwork & Biomarkers Testing, The “4 Horseman of Disease” 
+00:11:51 Healthspan: Functional Testing, Cognitive & Emotional States 
+00:13:59 Blood Testing: Best Frequency 
+00:16:01 DEXA Scan: Lean Mass & Fat, Bone Mineral Density & Osteoporosis 
+00:22:33 Bone Mineral Density & Age-Related Decline, Strength Training, Corticosteroids 
+00:29:24 Osteopenia & Osteoporosis Diagnosis, Strength Training
+00:31:03 AG1 (Athletic Greens)
+00:32:16 Back-casting: Defining Your “Marginal Decade” 
+00:38:31 All-Cause Mortality: Smoking, Strength, VO2 max 
+00:44:43 Attia’s Rule of Supplementation, “Centenarian Decathlete” Physical Goals
+00:49:24 Importance of Exercise, Brain Health, MET hours 
+00:55:23 Nicotine & Cognitive Focus
+01:03:12 Menstruation, PMS & Menopause 
+01:10:10 Hormone Replacement Therapy, Menopause & Breast Cancer Risk
+01:22:06 Estrogen, Progesterone & Testosterone Therapies in Women
+01:26:35 Hormone Replacement Therapy in Men, SHBG & Testosterone, Insulin
+01:37:23 Clomid, Pituitary, Testosterone & Cholesterol, Anastrozole, HCG
+01:47:46 Fadogia Agrestis, Supplements, Rapamycin 
+01:52:06 Testosterone Replacement Therapy & Fertility 
+01:59:26 Total Testosterone vs. Free Testosterone
+02:02:51 Cholesterol & Dietary Cholesterol, Saturated Fat, LDL & HDL, Apolipoprotein B
+02:17:42 Apolipoprotein B, Diet, Statins & Other Cholesterol Prescriptions 
+02:25:15 Cardiovascular Disease, Age & Disease Risk 
+02:28:53 Peptides, Stem Cells, BPC157, PRP (Platelet-Rich Plasma), Injury Rehabilitation 
+02:37:40 Metabolomics & Exercise 
+02:40:44 GLP-1 & Weight Loss 
+02:47:06 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Instagram, Twitter, Neural Network Newsletter, Huberman Lab Clips
 
-Oriol Vinyals: Deep Learning and Artificial General Intelligence  Lex Fridman Podcast #306,Lex Fridman,https://www.youtube.com/watch?v=aGBLRlLe7X8,C:/Users/������/Desktop/youtube/video/Oriol Vinyals: Deep Learning and Artificial General Intelligence  Lex Fridman Podcast #306.mp4,True,True,/Users/������/Desktop/youtube/audio/Oriol Vinyals: Deep Learning and Artificial General Intelligence  Lex Fridman Podcast #306.mp3,True,True,,
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
 
-"Demis Hassabis: DeepMind - AI, Superintelligence  the Future of Humanity  Lex Fridman Podcast #299",Lex Fridman,https://www.youtube.com/watch?v=Gfr50f6ZBvo,"C:/Users/������/Desktop/youtube/video/Demis Hassabis: DeepMind - AI, Superintelligence  the Future of Humanity  Lex Fridman Podcast #299.mp4",True,True,"/Users/������/Desktop/youtube/audio/Demis Hassabis: DeepMind - AI, Superintelligence  the Future of Humanity  Lex Fridman Podcast #299.mp3",True,True,,
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",10202.0,True,"/Users/Никита/Desktop/youtube/audio/Dr Peter Attia: Exercise, Nutrition, Hormones for Vitality  Longevity  Huberman Lab Podcast #85.mp3",https://i.ytimg.com/vi/DTCmprPCDqc/sddefault.jpg,True
+h2aWYjSA1Jc,Sleep Toolkit: Tools for Optimizing Sleep  Sleep-Wake Timing  Huberman Lab Podcast #84,Andrew Huberman,"In this episode, I describe a comprehensive toolkit consisting of behavioral and supplement-based tools that you can customize to enhance the quality, duration and impact of your sleep. This has an enormous positive impact on your overall health and daytime functioning, brain, hormones and immune system. I teach you how to effectively harness light (and darkness), temperature, food, exercise, caffeine, supplements, and digital devices in order to fall asleep faster, stay deeply asleep longer and overall, and achieve better quality sleep. I also describe how these tools can be modified to recover quickly from a poor night’s sleep, jet lag or bouts of shift work. Given that sleep is the foundation of all mental health, physical health and performance, this episode should benefit everyone as it provides an essential toolkit of science-supported, low- to zero-cost strategies that can be tailored to optimize your sleep routine. 
 
-"Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse  Lex Fridman Podcast #267",Lex Fridman,https://www.youtube.com/watch?v=5zOHSysMmH0,"C:/Users/������/Desktop/youtube/video/Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse  Lex Fridman Podcast #267.mp4",True,True,"/Users/������/Desktop/youtube/audio/Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse  Lex Fridman Podcast #267.mp3",True,True,,
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+InsideTracker: https://insidetracker.com/huberman
+Eight Sleep: https://www.eightsleep.com/huberman
+LMNT: https://drinklmnt.com/huberman
 
-"Psychedelics, Consciousness, and AI  Richard Dawkins  Jordan B Peterson Podcast S4 2022: E96",Jordan B Peterson,https://www.youtube.com/watch?v=HbGoUwmqIEQ,"C:/Users/������/Desktop/youtube/video/Psychedelics, Consciousness, and AI  Richard Dawkins  Jordan B Peterson Podcast S4 2022: E96.mp4",True,True,"/Users/������/Desktop/youtube/audio/Psychedelics, Consciousness, and AI  Richard Dawkins  Jordan B Peterson Podcast S4 2022: E96.mp3",True,True,,
+Supplements from Momentous
+https://www.livemomentous.com/huberman
 
-Joe Rogan Experience #1006 - Jordan Peterson  Bret Weinstein,PowerfulJRE,https://www.youtube.com/watch?v=6G59zsjM2UI,C:/Users/������/Desktop/youtube/video/Joe Rogan Experience #1006 - Jordan Peterson  Bret Weinstein.mp4,True,True,/Users/������/Desktop/youtube/audio/Joe Rogan Experience #1006 - Jordan Peterson  Bret Weinstein.mp3,True,True,,
+Social & Website
+Instagram - https://www.instagram.com/hubermanlab 
+Twitter - https://twitter.com/hubermanlab 
+Facebook - https://www.facebook.com/hubermanlab 
+TikTok - https://www.tiktok.com/@hubermanlab 
+Website - https://hubermanlab.com 
+Newsletter - https://hubermanlab.com/neural-network
 
-Joe Rogan Experience #1139 - Jordan Peterson,PowerfulJRE,https://www.youtube.com/watch?v=9Xc7DN-noAc,C:/Users/������/Desktop/youtube/video/Joe Rogan Experience #1139 - Jordan Peterson.mp4,True,True,/Users/������/Desktop/youtube/audio/Joe Rogan Experience #1139 - Jordan Peterson.mp3,True,True,,
+Articles: 
+Early evening light mitigates sleep compromising physiological and alerting responses to subsequent late evening light: https://go.nature.com/3zIAk1X
+Recommendations for daytime, evening, and nighttime indoor light exposure to best support physiology, sleep, and wakefulness in healthy adults: https://bit.ly/3bAwzTZ
+Meal Timing Regulates the Human Circadian System: https://bit.ly/3zECxLF
 
-Joe Rogan Experience #1080 - David Goggins,PowerfulJRE,https://www.youtube.com/watch?v=5tSTk1083VY,C:/Users/������/Desktop/youtube/video/Joe Rogan Experience #1080 - David Goggins.mp4,True,True,/Users/������/Desktop/youtube/audio/Joe Rogan Experience #1080 - David Goggins.mp3,True,True,,
+Books
+Why We Sleep: Unlocking the Power of Sleep and Dreams: https://amzn.to/3dfsncH
+Breath: The New Science of a Lost Art: https://amzn.to/3zEvF0P
+ 
+Resources
+Ring lights: https://amzn.to/3p2jDJD
+Drawing tablet: https://amzn.to/3bEbpVc
+Light Meter (Apple): https://apple.co/3P70ZLe
+Light Meter (Android): https://bit.ly/3P8N3Ax
+Reveri: https://www.reveri.com
+Madefor NSDR: https://youtu.be/pL02HRFk2vo
+Huberman Lab Toolkit for Sleep: https://bit.ly/3Syq3hd
+Huberman Lab Podcast episode on shiftwork & jetlag.  : https://bit.ly/3SqX8LY
 
-"Andrew Huberman: Focus, Stress, Relationships, and Friendship  Lex Fridman Podcast #277",Lex Fridman,https://www.youtube.com/watch?v=lvh3g7eszVQ,"C:/Users/������/Desktop/youtube/video/Andrew Huberman: Focus, Stress, Relationships, and Friendship  Lex Fridman Podcast #277.mp4",True,True,"/Users/������/Desktop/youtube/audio/Andrew Huberman: Focus, Stress, Relationships, and Friendship  Lex Fridman Podcast #277.mp3",True,True,,
+Timestamps
+00:00:00 Tools to Optimize Sleep 
+00:03:02 Momentous Supplements 
+00:04:16 InsideTracker, Eight Sleep, LMNT 
+00:08:24 Factors to Control Circadian Rhythm & Sleep
+00:15:10 Morning Tool: Morning Sunlight Viewing, Cortisol 
+00:20:44 Morning Sunlight: Circadian Rhythm, Artificial Lights, Cloudy Days 
+00:26:18 Evaluating Light in Environment, Compensating for Missed Morning Light
+00:29:26 AG1 (Athletic Greens)
+00:30:46 Morning Tools: Temperature & Deliberate Cold Exposure, Exercise
+00:34:58 Timing Caffeine, “Afternoon Crash,” Exercise
+00:40:08 Timing Eating, Alertness & Circadian Rhythm 
+00:45:20 3 Daily Critical Periods 
+00:46:49 Afternoons: Naps, Deep Relaxation (NSDR, Self-Hypnosis), Exercise & Body Temperature, Caffeine 
+00:51:59 Afternoon Tools: Viewing Sunlight in Late Afternoon, Evening Light
+00:56:45 Evening/Night Tools: Overhead Artificial Lights, Light Sensitivity 
+01:04:40 Evening Tools: Hot Bath/Sauna, Temperature & Sleeping Environment 
+01:09:40 Alcohol, THC & Reduced Sleep Quality; CBD, Anxiety & Falling Asleep
+01:11:45 Sleep Supplements: Magnesium Threonate, Apigenin & Theanine
+01:16:34 Melatonin Supplementation (Caution)
+01:17:44 Additional Sleep Supplements: GABA, Glycine, Myo-Inositol & Anxiety
+01:20:08 Falling Back Asleep: Reveri App, NSDR, Yoga Nidra 
+01:22:55 Staying Asleep: Eye Masks, Ear Plugs, Elevating Feet 
+01:24:58 Tool: Sleep Apnea & Nasal Breathing 
+01:28:20 Sleep Schedule Consistency, Weekends, Compensatory Sleep & Caffeine
+01:31:14 Tools: Temperature Minimum & Jet Lag, Shift Work & Red Lights
+01:37:38 Behavioral Tools for 3 Daily Critical Periods 
+01:39:26 Zero-Cost Support, YouTube Feedback, Huberman Lab Clips, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Instagram, Twitter, Neural Network Newsletter
 
-"What Alcohol Does to Your Body, Brain  Health  Huberman Lab Podcast #86",Andrew Huberman,https://www.youtube.com/watch?v=DkS1pkKpILY,"C:/Users/������/Desktop/youtube/video/What Alcohol Does to Your Body, Brain  Health  Huberman Lab Podcast #86.mp4",True,True,"/Users/������/Desktop/youtube/audio/What Alcohol Does to Your Body, Brain  Health  Huberman Lab Podcast #86.mp3",True,True,,
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
 
-"Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom  Lex Fridman Podcast #300",Lex Fridman,https://www.youtube.com/watch?v=gk4tEO4jDUM,"C:/Users/������/Desktop/youtube/video/Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom  Lex Fridman Podcast #300.mp4",True,True,"C:/Users/������/Desktop/youtube/audio/Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom  Lex Fridman Podcast #300.mp3",True,True,"C:/Users/������/Desktop/youtube/thumbnails/Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom  Lex Fridman Podcast #300.png",6081
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",6114.0,True,/Users/Никита/Desktop/youtube/audio/Sleep Toolkit: Tools for Optimizing Sleep  Sleep-Wake Timing  Huberman Lab Podcast #84.mp3,https://i.ytimg.com/vi/h2aWYjSA1Jc/sddefault.jpg,True
+7YGZZcXqKxE,Dr Emily Balcetis: Tools for Setting  Achieving Goals  Huberman Lab Podcast #83,Andrew Huberman,"My guest this episode is Dr. Emily Balcetis, PhD, Professor of Psychology at New York University (NYU). Dr. Balcetis’ research focuses on how our perception of the world, particularly our visual perceptions, influences our level and persistence of motivation, how we conceptualize goals, actual goal achievement, and our emotional state as we pursue goals. Dr. Balcetis explains how to best visualize and overcome challenges in pursuit of larger, complex goals. We also discuss the science of how to define goals and intermediate milestones, overcome obstacles, and effectively track progress. This episode highlights science-based, immediately actionable tools that anyone can use to set and achieve physical and/or cognitive goals more effectively. 
 
-"Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics  Lex Fridman Podcast #284",Lex Fridman,https://www.youtube.com/watch?v=gp4U5aH_T6A,"C:/Users/Nikita/Desktop/youtube/video/Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics  Lex Fridman Podcast #284.mp4",True,True,"C:/Users/Nikita/Desktop/youtube/audio/Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics  Lex Fridman Podcast #284.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics  Lex Fridman Podcast #284.png",15280
+#HubermanLab #GoalSetting
 
-"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind  Lex Fridman Podcast #261",Lex Fridman,https://www.youtube.com/watch?v=BCdV6BMMpOo,"C:/Users/Nikita/Desktop/youtube/video/Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind  Lex Fridman Podcast #261.mp4",True,True,"/Users/Nikita/Desktop/youtube/audio/Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind  Lex Fridman Podcast #261.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind  Lex Fridman Podcast #261.png",9991
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+Thesis: https://takethesis.com/huberman 
+Levels*: https://www.levelshealth.com/huberman 
+ROKA: https://www.roka.com/huberman 
 
-"Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI  Lex Fridman Podcast #252",Lex Fridman,https://www.youtube.com/watch?v=DxREm3s1scA,"C:/Users/Nikita/Desktop/youtube/video/Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI  Lex Fridman Podcast #252.mp4",True,True,"/Users/Nikita/Desktop/youtube/audio/Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI  Lex Fridman Podcast #252.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI  Lex Fridman Podcast #252.png",9108
+*Edit to 6:07: Levels enables members to see their continuous glucose data alongside their food and exercise logs — Levels itself is not a continuous glucose monitor.
 
-Matt Walker: Sleep  Lex Fridman Podcast #210,Lex Fridman,https://www.youtube.com/watch?v=Hc4XvHTlW3s,C:/Users/Nikita/Desktop/youtube/video/Matt Walker: Sleep  Lex Fridman Podcast #210.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Matt Walker: Sleep  Lex Fridman Podcast #210.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Matt Walker: Sleep  Lex Fridman Podcast #210.png,10098
+Supplements from Momentous
+https://www.livemomentous.com/huberman
 
-Rick Doblin: Psychedelics  Lex Fridman Podcast #202,Lex Fridman,https://www.youtube.com/watch?v=2tUiLxtrLxk,C:/Users/Nikita/Desktop/youtube/video/Rick Doblin: Psychedelics  Lex Fridman Podcast #202.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Rick Doblin: Psychedelics  Lex Fridman Podcast #202.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Rick Doblin: Psychedelics  Lex Fridman Podcast #202.png,9366
+Social & Website
+Instagram - https://www.instagram.com/hubermanlab 
+Twitter - https://twitter.com/hubermanlab 
+Facebook - https://www.facebook.com/hubermanlab 
+TikTok - https://www.tiktok.com/@hubermanlab 
+Website - https://hubermanlab.com 
+Newsletter - https://hubermanlab.com/neural-network
 
-"Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic  Lex Fridman Podcast #194",Lex Fridman,https://www.youtube.com/watch?v=TG6BuSjwP4o,"C:/Users/Nikita/Desktop/youtube/video/Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic  Lex Fridman Podcast #194.mp4",True,True,"/Users/Nikita/Desktop/youtube/audio/Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic  Lex Fridman Podcast #194.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic  Lex Fridman Podcast #194.png",11829
+Subscribe to the Huberman Lab Podcast
+Apple Podcasts: https://apple.co/3thCToZ
+Spotify: https://spoti.fi/3PYzuFs
+Google Podcasts: https://bit.ly/3amI809
+Other platforms: https://hubermanlab.com/follow
 
-"Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning  Lex Fridman Podcast #185",Lex Fridman,https://www.youtube.com/watch?v=4dC_nRYIDZU,"C:/Users/Nikita/Desktop/youtube/video/Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning  Lex Fridman Podcast #185.mp4",True,True,"/Users/Nikita/Desktop/youtube/audio/Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning  Lex Fridman Podcast #185.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning  Lex Fridman Podcast #185.png",11840
+Dr. Emily Balcetis
+NYU Profile: https://as.nyu.edu/faculty/emily-balcetis.html 
+Clearer, Closer, Better: How Successful People See The World: https://amzn.to/3PQfhBk 
+Why some people find exercise harder than others (TED Talk): https://bit.ly/3zHttqx 
+Dustin Grue: https://bit.ly/3vNFSqD
+Writer’s bloc: An online, real-time communal writing platform for enhancing writing pedagogies: https://bit.ly/3SviY17
+Twitter: https://twitter.com/EBalcetis
+Instagram: https://www.instagram.com/emilybalcetis
 
-Risto Miikkulainen: Neuroevolution and Evolutionary Computation  Lex Fridman Podcast #177,Lex Fridman,https://www.youtube.com/watch?v=CY_LEa9xQtg,C:/Users/Nikita/Desktop/youtube/video/Risto Miikkulainen: Neuroevolution and Evolutionary Computation  Lex Fridman Podcast #177.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Risto Miikkulainen: Neuroevolution and Evolutionary Computation  Lex Fridman Podcast #177.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Risto Miikkulainen: Neuroevolution and Evolutionary Computation  Lex Fridman Podcast #177.png,6977
+Other Resources:
+Anish Kapoor: https://anishkapoor.com 
+Reporter App: http://reporter-app.com 
+One Second Everyday App: https://1se.co
 
-"Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity  Lex Fridman Podcast #164",Lex Fridman,https://www.youtube.com/watch?v=ClxRHJPz8aQ,"C:/Users/Nikita/Desktop/youtube/video/Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity  Lex Fridman Podcast #164.mp4",True,True,"/Users/Nikita/Desktop/youtube/audio/Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity  Lex Fridman Podcast #164.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity  Lex Fridman Podcast #164.png",10403
+Timestamps
+00:00:00 Dr. Emily Balcetis, Visualization of Goals & Motivation 
+00:03:24 Momentous Supplements 
+00:04:38 Thesis, Levels, ROKA
+00:08:08 Vision & Motivation 
+00:11:37 Tool: Narrowing Visual Focus & Improving Exercise 
+00:21:39 Adjusting Visual Attention & Perceived Fatigue 
+00:25:14 Tool: Visual Focus “Spotlight”
+00:27:57 Tool: Goal Gradient Hypothesis, Visual Spotlight to Increase Effort
+00:33:38 AG1 (Athletic Greens)
+00:35:00 Defining Goals vs. Accomplishing Goals, Dream Boards & Goal Lists  
+00:41:28 Tool: How to Setting Better Goals & Identify Obstacles 
+00:46:38 Vision is Unique, Challenging the Visual System, Realistic Goals & Micro-Goals
+00:57:12 Do Fit People View the World Differently?, States of Body & Visual Experiences
+01:05:54 Caffeine, Stimulants, Visual Windows & Motivation 
+01:10:13 Tools: Goal Setting & Cognitive (Non-Physical) Goals, Data Collection
+01:21:54 Year in Review & Memory 
+01:26:32 Visual Tools & Mental Health, Depression & Visual Priming 
+01:31:33 Focusing Attention & Increasing Visual Detail/Resolution 
+01:36:12 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Neural Network Newsletter, Instagram, Twitter, Momentous Supplements
 
-"Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics  Lex Fridman Podcast #163",Lex Fridman,https://www.youtube.com/watch?v=ifX_JnBfxTY,"C:/Users/Nikita/Desktop/youtube/video/Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics  Lex Fridman Podcast #163.mp4",True,True,"/Users/Nikita/Desktop/youtube/audio/Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics  Lex Fridman Podcast #163.mp3",True,True,"C:/Users/Nikita/Desktop/youtube/thumbnails/Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics  Lex Fridman Podcast #163.png",9520
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
 
-Charles Isbell and Michael Littman: Machine Learning and Education  Lex Fridman Podcast #148,Lex Fridman,https://www.youtube.com/watch?v=yzMVEbs8Zz0,C:/Users/Nikita/Desktop/youtube/video/Charles Isbell and Michael Littman: Machine Learning and Education  Lex Fridman Podcast #148.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Charles Isbell and Michael Littman: Machine Learning and Education  Lex Fridman Podcast #148.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Charles Isbell and Michael Littman: Machine Learning and Education  Lex Fridman Podcast #148.png,7067
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",5898.0,True,/Users/Никита/Desktop/youtube/audio/Dr Emily Balcetis: Tools for Setting  Achieving Goals  Huberman Lab Podcast #83.mp3,https://i.ytimg.com/vi/7YGZZcXqKxE/sddefault.jpg,True
+T65RDBiB5Hs,Optimize  Control Your Brain Chemistry to Improve Health  Performance  Huberman Lab Podcast #80,Andrew Huberman,"In this episode, I explain the biological roles of the four major neuromodulators—dopamine, epinephrine (aka adrenaline), serotonin, and acetylcholine—and describe how these neuromodulators impact a wide variety of mental states and behaviors, including focus, creativity, motivation, drive, learning, alertness, mood, relationships, and feelings of well-being. Then, with that foundational understanding in mind, I describe a potent toolkit of science-supported behavioral, nutrition, and supplementation tools that can be used to increase baseline levels of individual neuromodulators and that can be modified for specific goals. This episode summarizes low-or-no-cost, actionable, science-based tools that can benefit anyone in order to enhance their levels of brain chemicals and improve mental health, physical health, and performance.
 
-Michael Malice: New Years Special  Lex Fridman Podcast #253,Lex Fridman,https://www.youtube.com/watch?v=B2tXN7ZnSfU,C:/Users/Nikita/Desktop/youtube/video/Michael Malice: New Years Special  Lex Fridman Podcast #253.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Michael Malice: New Years Special  Lex Fridman Podcast #253.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Michael Malice: New Years Special  Lex Fridman Podcast #253.png,12222
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+Thesis: https://takethesis.com/huberman
+InsideTracker: https://insidetracker.com/huberman
 
-Michael Malice: Totalitarianism and Anarchy  Lex Fridman Podcast #200,Lex Fridman,https://www.youtube.com/watch?v=R5rNoV1Qy_Q,C:/Users/Nikita/Desktop/youtube/video/Michael Malice: Totalitarianism and Anarchy  Lex Fridman Podcast #200.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Michael Malice: Totalitarianism and Anarchy  Lex Fridman Podcast #200.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Michael Malice: Totalitarianism and Anarchy  Lex Fridman Podcast #200.png,9441
+Supplements from Momentous
+https://www.livemomentous.com/huberman
 
-Joe Rogan Experience #1212 - David Goggins,PowerfulJRE,https://www.youtube.com/watch?v=BvWB7B8tXK8,C:/Users/Nikita/Desktop/youtube/video/Joe Rogan Experience #1212 - David Goggins.mp4,True,True,/Users/Nikita/Desktop/youtube/audio/Joe Rogan Experience #1212 - David Goggins.mp3,True,True,C:/Users/Nikita/Desktop/youtube/thumbnails/Joe Rogan Experience #1212 - David Goggins.png,8278
+Social & Website
+Instagram - https://www.instagram.com/hubermanlab 
+Twitter - https://twitter.com/hubermanlab 
+Facebook - https://www.facebook.com/hubermanlab 
+TikTok - https://www.tiktok.com/@hubermanlab 
+Website - https://hubermanlab.com 
+Newsletter - https://hubermanlab.com/neural-network
 
-"Psychedelics, Consciousness, and AI  Richard Dawkins  #256",Jordan B Peterson,https://www.youtube.com/watch?v=HbGoUwmqIEQ,"C:/Users/nikit/youtube/video/Psychedelics, Consciousness, and AI  Richard Dawkins  #256.mp4",True,True,"C:/Users/nikit/youtube/audio/Psychedelics, Consciousness, and AI  Richard Dawkins  #256.mp3",True,True,"C:/Users/nikit/youtube/thumbnails/Psychedelics, Consciousness, and AI  Richard Dawkins  #256.png",5216
+Articles
+Rapid and reversible control of human metabolism by individual sleep states: https://bit.ly/3RofUmU
+Resetting the late timing of ‘night owls’ has a positive impact on mental health and performance: https://bit.ly/3uD54Qd
+Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior: https://bit.ly/3uGvOz5
+The Role of Gene Encoding Variation of DRD4 in the Relationship between Inattention and Seasonal Daylight: https://bit.ly/3Ob154l
+Caffeine increases striatal dopamine D2/D3 receptor availability in the human brain: https://go.nature.com/3c6AQi4
+Human physiological responses to immersion into water of different temperatures: https://bit.ly/3IumXX1
+The effect of Cissus quadrangularis (CQR-300) and a Cissus formulation (CORE) on obesity and obesity-induced oxidative stress: https://bit.ly/3AChHib
 
-"Noam Chomsky: Putin, Ukraine, China, and Nuclear War  Lex Fridman Podcast #316",Lex Fridman,https://www.youtube.com/watch?v=7uHGlfeCBbE,"C:/Users/nikit/youtube/video/Noam Chomsky: Putin, Ukraine, China, and Nuclear War  Lex Fridman Podcast #316.mp4",True,True,"C:/Users/nikit/youtube/audio/Noam Chomsky: Putin, Ukraine, China, and Nuclear War  Lex Fridman Podcast #316.mp3",True,True,"C:/Users/nikit/youtube/thumbnails/Noam Chomsky: Putin, Ukraine, China, and Nuclear War  Lex Fridman Podcast #316.png",2832
+Other Resources:
+The Darya Rose Show: Sunscreen & Sunprotection with Dr. Brian Diffey: https://bit.ly/3IqHuf0
+Huberman Lab: Controlling Your Dopamine for Motivation Focus & Satisfaction: https://bit.ly/3IqQzVb
+Huberman Lab: ADHD & How Anyone Can Improve Their Focus: https://bit.ly/3uDo4Oo
+Huberman Lab: Using Deliberate Cold Exposure for Health & Performance: https://bit.ly/3AFfDGi
+Huberman Lab: Tools for Managing Stress & Anxiety: https://bit.ly/3AzlRay
 
-Jocko Podcast 98 w Jordan Peterson Breaking Your Wretched Loop Dangerous But Disciplined,Jocko Podcast,https://www.youtube.com/watch?v=23dArPpXgCM,C:/Users/nikit/youtube/video/Jocko Podcast 98 w Jordan Peterson Breaking Your Wretched Loop Dangerous But Disciplined.mp4,True,True,C:/Users/nikit/youtube/audio/Jocko Podcast 98 w Jordan Peterson Breaking Your Wretched Loop Dangerous But Disciplined.mp3,True,True,C:/Users/nikit/youtube/thumbnails/Jocko Podcast 98 w Jordan Peterson Breaking Your Wretched Loop Dangerous But Disciplined.png,13403
+Timestamps
+00:00:00 Optimizing Neurochemicals to Improve Health 
+00:03:40 Momentous Supplements
+00:04:30 Sleep & Maintaining Healthy Metabolism 
+00:09:52 Tools: How to Wake Up Earlier, Night Owls
+00:19:32 AG1 (Athletic Greens), Thesis, InsideTracker
+00:22:05 Nervous System Overview 
+00:31:32 How Neuromodulators Work  
+00:34:24 Baseline Neuromodulator Levels, 3 Daily Phases 
+00:42:15 Hormones Modulate Neuromodulators
+00:52:12 The 4 Major Types of Neuromodulators 
+01:01:45 Tool Kit 1: Increase Baseline Dopamine & Focus 
+01:08:52 Tyrosine-rich Foods & Dopamine 
+01:10:59 Dopamine Supplementation: Mucuna Pruriens, L-tyrosine & Phenylethylamine
+01:16:00 Deliberate Cold Exposure & Dopamine 
+01:21:12 Tool Kit 2: Additional Tips to Increase Dopamine 
+01:26:10 Tool Kit 3: Increase Epinephrine (Adrenaline) & Alertness 
+01:34:34 Tool Kit 4: Increase Acetylcholine & Attention/Learning; Choline-rich Foods 
+01:37:29 Acetylcholine Supplements: Nicotine, Alpha GPC, Huperzine  
+01:44:47 Tool Kit 5: Behavior to Increase Focus & Acetylcholine
+01:46:56 Tool Kit 6: Behavior to Increase Serotonin & Feelings of Well-being  
+01:50:51 Tools: Tryptophan-Rich Foods & Serotonin
+01:53:31 Tools: Serotonin Supplements: Cissus Quadrangularis, 5-HTP, Myo-inositol
+02:02:14 Use the Neurochemical Toolkit to Meet Individual Goals 
+02:06:44 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Instagram, Twitter, Neural Network Newsletter
 
-Dr Anna Lembke: Understanding  Treating Addiction  Huberman Lab Podcast #33,Andrew Huberman,https://www.youtube.com/watch?v=p3JLaF_4Tz8,C:/Users/nikit/youtube/video/Dr Anna Lembke: Understanding  Treating Addiction  Huberman Lab Podcast #33.mp4,True,True,C:/Users/nikit/youtube/audio/Dr Anna Lembke: Understanding  Treating Addiction  Huberman Lab Podcast #33.mp3,True,True,C:/Users/nikit/youtube/thumbnails/Dr Anna Lembke: Understanding  Treating Addiction  Huberman Lab Podcast #33.png,7351
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
 
-The Science of Setting  Achieving Goals  Huberman Lab Podcast #55,Andrew Huberman,https://www.youtube.com/watch?v=t1F7EEGPQwo,C:/Users/nikit/youtube/video/The Science of Setting  Achieving Goals  Huberman Lab Podcast #55.mp4,True,True,C:/Users/nikit/youtube/audio/The Science of Setting  Achieving Goals  Huberman Lab Podcast #55.mp3,True,True,C:/Users/nikit/youtube/thumbnails/The Science of Setting  Achieving Goals  Huberman Lab Podcast #55.png,6862
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",7740.0,True,/Users/Никита/Desktop/youtube/audio/Optimize  Control Your Brain Chemistry to Improve Health  Performance  Huberman Lab Podcast #80.mp3,https://i.ytimg.com/vi/T65RDBiB5Hs/sddefault.jpg,True
+UNCwdFxPtE8,Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools  Huberman Lab Podcast #79,Andrew Huberman,"My guest this episode is Jeff Cavaliere, MSPT CSCS, a world-class physical therapist and Certified Strength & Conditioning Specialist. Jeff has coached athletes ranging from novice to professional and has taught science-based physical training protocols to tens of millions of everyday people via his enormously clear and actionable online programs. Jeff is a true expert on proper resistance and cardiovascular training, injury prevention and rehabilitation and has extensive knowledge on proper form, posture, nutrition and supplementation. We discuss how to best design and optimize a physical training program to achieve your specific goals. We also discuss how to build and leverage mental focus during workouts, when and how to stretch, pain management and enhancing workout recovery and sleep, and how to personalize your training and nutrition program over time. Jeff’s knowledge and science-based approach ought to benefit everyone in reaching their desired fitness, aesthetic and overall health goals.
 
-Michael Stevens: Vsauce  Lex Fridman Podcast #58,Lex Fridman,https://www.youtube.com/watch?v=3qMemn__kK8,C:/Users/nikit/youtube/video/Michael Stevens: Vsauce  Lex Fridman Podcast #58.mp4,True,True,C:/Users/nikit/youtube/audio/Michael Stevens: Vsauce  Lex Fridman Podcast #58.mp3,True,True,C:/Users/nikit/youtube/thumbnails/Michael Stevens: Vsauce  Lex Fridman Podcast #58.png,3513
+#HubermanLab #Exercise #StrengthTraining
 
-Jocko Podcast 332: Andrew Huberman Influence Ownership Over Your Physiological Psychological Being,Jocko Podcast,https://www.youtube.com/watch?v=H5ApNHAPJVU,C:/Users/nikit/youtube/video/Jocko Podcast 332: Andrew Huberman Influence Ownership Over Your Physiological Psychological Being.mp4,True,True,C:/Users/nikit/youtube/audio/Jocko Podcast 332: Andrew Huberman Influence Ownership Over Your Physiological Psychological Being.mp3,True,True,C:/Users/nikit/youtube/thumbnails/Jocko Podcast 332: Andrew Huberman Influence Ownership Over Your Physiological Psychological Being.png,18719
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+Eight Sleep: https://www.eightsleep.com/huberman
+ROKA: https://www.roka.com/huberman
 
-#282 - Lex Fridman  The Tim Dillon Show,The Tim Dillon Show,https://www.youtube.com/watch?v=mVZehtgi3W0,C:/Users/nikit/youtube/video/#282 - Lex Fridman  The Tim Dillon Show.mp4,True,True,C:/Users/nikit/youtube/audio/#282 - Lex Fridman  The Tim Dillon Show.mp3,True,True,C:/Users/nikit/youtube/thumbnails/#282 - Lex Fridman  The Tim Dillon Show.png,6493
+Supplements from Momentous
+https://www.livemomentous.com/huberman
 
-#283 - Joe Rogan  The Tim Dillon Show,The Tim Dillon Show,https://www.youtube.com/watch?v=_lDbuAkLxPw,C:/Users/nikit/youtube/video/#283 - Joe Rogan  The Tim Dillon Show.mp4,True,True,C:/Users/nikit/youtube/audio/#283 - Joe Rogan  The Tim Dillon Show.mp3,True,True,C:/Users/nikit/youtube/thumbnails/#283 - Joe Rogan  The Tim Dillon Show.png,5532
+Social & Website
+Instagram - https://www.instagram.com/hubermanlab 
+Twitter - https://twitter.com/hubermanlab 
+Facebook - https://www.facebook.com/hubermanlab 
+TikTok - https://www.tiktok.com/@hubermanlab 
+Website - https://hubermanlab.com 
+Newsletter - https://hubermanlab.com/neural-network
 
-#249 - Jordan Peterson  The Tim Dillon Show,The Tim Dillon Show,https://www.youtube.com/watch?v=5cGQG1zBKdI,C:/Users/nikit/youtube/video/#249 - Jordan Peterson  The Tim Dillon Show.mp4,True,True,C:/Users/nikit/youtube/audio/#249 - Jordan Peterson  The Tim Dillon Show.mp3,True,True,C:/Users/nikit/youtube/thumbnails/#249 - Jordan Peterson  The Tim Dillon Show.png,4651
+Subscribe to the Huberman Lab Podcast
+Apple Podcasts: https://apple.co/3thCToZ
+Spotify: https://spoti.fi/3PYzuFs
+Google Podcasts: https://bit.ly/3amI809
+Other platforms: https://hubermanlab.com/follow
 
-Joe Rogan Experience #1109 - Matthew Walker,PowerfulJRE,https://www.youtube.com/watch?v=pwaWilO_Pig,C:/Users/nikit/youtube/video/Joe Rogan Experience #1109 - Matthew Walker.mp4,True,True,C:/Users/nikit/youtube/audio/Joe Rogan Experience #1109 - Matthew Walker.mp3,True,True,C:/Users/nikit/youtube/thumbnails/Joe Rogan Experience #1109 - Matthew Walker.png,6932
+Jeff Cavaliere
+Website: https://athleanx.com 
+YouTube: https://www.youtube.com/c/athleanx 
+Instagram: https://www.instagram.com/athleanx
+Twitter: https://twitter.com/trainer2thepros
+Facebook: https://www.facebook.com/athleanx
 
-Dr Matthew Walker: The Science  Practice of Perfecting Your Sleep  Huberman Lab Podcast #31,Andrew Huberman,https://www.youtube.com/watch?v=gbQFSMayJxk,C:/Users/nikit/youtube/video/Dr Matthew Walker: The Science  Practice of Perfecting Your Sleep  Huberman Lab Podcast #31.mp4,True,True,C:/Users/nikit/youtube/audio/Dr Matthew Walker: The Science  Practice of Perfecting Your Sleep  Huberman Lab Podcast #31.mp3,True,True,C:/Users/nikit/youtube/thumbnails/Dr Matthew Walker: The Science  Practice of Perfecting Your Sleep  Huberman Lab Podcast #31.png,11166
+Jeff's Articles  on Workout Splits: 
+https://athleanx.com/articles/the-best-workout-split-for-maximum-muscle-gains 
+https://athleanx.com/articles/the-best-way-to-split-up-your-workouts-surprise 
+
+Hand Grip Dynamometer: https://amzn.to/3P3Y2M9
+
+Jeff's Videos:  
+Jump Rope Video: https://youtu.be/FpE7TbADcYs
+High Pull Video: https://youtu.be/1SnVJDt7jts
+Fixing Back Pain Video: https://youtu.be/DWmGArQBtFI
+
+Timestamps
+00:00:00 Jeff Cavaliere, Physical Training
+00:03:27 Momentous Supplements, AG1 (Athletic Greens), Eight Sleep, ROKA
+00:08:38 Tool: A Fitness Plan for General Health
+00:13:27 Tool: Optimizing Body Part Training Splits 
+00:20:12 Two-a-Day Training
+00:22:33 Cardiovascular Conditioning, High-Intensity Interval Training (HIIT) & Skills 
+00:28:24 Tool: Mind-Muscle Connection, The Cavaliere Cramp Contraction Test 
+00:35:05 “Muscularity” & Resting Tone
+00:41:31 Tool: Muscle Recovery & Soreness, Grip Strength 
+00:50:39 Sleep & Sleep Position
+00:57:24 Active (Dynamic) vs. Passive Stretching, Timing & Healing Muscle 
+01:07:23 Tool: Jumping Rope 
+01:12:56 Internal & External Rotation, Upright Row vs. High Pull 
+01:24:27 Back Pain Relief & Medial Glutes, Body Pain & Origins
+01:37:39 Tool: Properly Holding Weights & Deepening Grip 
+01:43:54 Tool: Physical Recovery, Heat & Cold Exposure 
+01:47:19 Tool: Record Keeping for Training Performance & Rest Time
+01:51:47 Nutrition Principles & Consistency, Processed Foods & Sugar
+02:00:15 Tool: “Plate Eating”: Protein, Fibrous & Starchy Carbohydrates 
+02:11:25 Training in Men vs. Women, Training for Kids & Adolescents 
+02:18:05 Tool: Pre- and Post-Training Nutrition 
+02:26:30 Intensity & Training Consistency 
+02:29:53 AthleanX, Jesse Laico & Fitness Journeys 
+02:38:27 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Instagram, Twitter, Neural Network Newsletter
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",9647.0,True,/Users/Никита/Desktop/youtube/audio/Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools  Huberman Lab Podcast #79.mp3,https://i.ytimg.com/vi/UNCwdFxPtE8/sddefault.jpg,True
+azb3Ih68awQ,Using Salt to Optimize Mental  Physical Performance  Huberman Lab Podcast #63,Andrew Huberman,"I discuss the role of salt (sodium) in the nervous system and the key role that it plays in mental performance, physical performance and health. I explain how the brain senses salt levels in our body and how that relates to our feelings of thirst. I cover the physiology of the renal system and the hormones that control sodium and water balance in our body. I also explore how salt interacts with stress and our immune systems and its crucial role in neuron function. Additionally, I examine research findings suggesting that some individuals might benefit from increased intake of sodium and other electrolytes (magnesium and potassium) to enhance mental performance, lessen anxiety, and offset dizziness. Yet, other people may need less sodium. I discuss how you can determine your optimal sodium intake and why sodium intake levels need to be uniquely tailored to an individual’s lifestyle. Finally, I explain how salt creates ‘hidden’ sugars in many processed foods and the problems that can create. Throughout the episode, I explain peer-reviewed findings outlining salt’s essential role in overall health and describe general recommendations and tools anyone can use to find their optimal salt balance and thereby enhance their brain and body’s performance.
+
+#HubermanLab #Hydration #Salt
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+LMNT: https://drinklmnt.com/huberman
+InsideTracker: https://insidetracker.com/huberman
+
+See Andrew Huberman Live: The Brain Body Contract   
+Tuesday, May 17th: Seattle, WA
+Wednesday, May 18th: Portland, OR  
+https://hubermanlab.com/tour
+
+Our Patreon page
+https://www.patreon.com/andrewhuberman
+
+Supplements from Thorne
+https://www.thorne.com/u/huberman
+
+Social & Website
+Instagram - https://www.instagram.com/hubermanlab
+Twitter - https://twitter.com/hubermanlab
+Facebook - https://www.facebook.com/hubermanlab
+TikTok - https://www.tiktok.com/@hubermanlab
+Website - https://hubermanlab.com
+Newsletter - https://hubermanlab.com/neural-network
+
+Article Links
+""The preference for sugar over sweetener depends on a gut sensor cell"": https://go.nature.com/33X9zuA
+""Urinary Sodium and Potassium Excretion and Risk of Cardiovascular Events"": https://bit.ly/3MOJEGW
+""Dietary sodium and health: How much is too much for those with orthostatic disorders?"": https://bit.ly/3tSP7UO
+""Increased salt consumption induces body water conservation and decreases fluid intake"": https://bit.ly/35PCPVg
+
+Book Links
+""The Salt Fix: Why the Experts Got It All Wrong--and How Eating More Might Save Your Life"": https://amzn.to/3CD1KHi
+
+Timestamps
+00:00:00 Role of Salt  
+00:02:18 The Brain-Body Contract 
+00:02:57 Neuropod Cells, Artificial Sweeteners & ‘Hidden’ Cravings 
+00:10:57 AG1 (Athletic Greens), LMNT, InsideTracker 
+00:15:06 Salt Regulation 
+00:17:13 How the Brain Senses Salt
+00:24:15 Salt & Thirst  
+00:29:27 Blood Pressure & Thirst 
+00:33:47 Kidneys & Urine Regulation
+00:39:08 Vasopressin: Roles in Libido & Urination 
+00:45:46 How Much Salt Do You Need? 
+00:56:45 Should You Increase Your Salt Intake? 
+01:02:19 Tools: Determining Your Individual Salt Intake
+01:14:02 Iodine, Sea Salt 
+01:17:13 Salt: Roles in Stress & Anxiety 
+01:24:20 Other Electrolytes: Magnesium & Potassium 
+01:27:57 Tools: Effects of Low-carbohydrate Diets & Caffeine 
+01:32:28 General Recommendations for Salt Intake  
+01:36:34 Perception of Salt & Sugar Taste, Processed Foods 
+01:47:13 Role of Sodium in Neuronal Function, Action Potentials 
+01:53:13 Dehydration 
+01:55:36 What Salt Intake is Best for You? 
+02:00:58 Zero-Cost Support, YouTube Feedback, Spotify, Apple Reviews, Sponsors, Patreon, Thorne, Instagram, Twitter, Neural Network Newsletter 
+
+Please note that The Huberman Lab Podcast is distinct from Dr. Huberman's teaching and research roles at Stanford University School of Medicine. The information provided in this show is not medical advice, nor should it be taken or applied as a replacement for medical advice. The Huberman Lab Podcast, its employees, guests and affiliates assume no liability for the application of the information discussed.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",7434.0,True,/Users/Никита/Desktop/youtube/audio/Using Salt to Optimize Mental  Physical Performance  Huberman Lab Podcast #63.mp3,https://i.ytimg.com/vi/azb3Ih68awQ/sddefault.jpg,True
+ouCWNRvPk20,"Dr Justin Sonnenburg: How to Build, Maintain  Repair Gut Health  Huberman Lab Podcast #62",Andrew Huberman,"My guest this episode is Dr. Justin Sonnenburg, Professor of Microbiology & Immunology at Stanford University. Dr. Sonnenburg’s research focuses on how microbes in our gut impact our mental and physical health and how diet and your environment shape your gut microbiome. We discuss the architecture of the gut microbiome and microbiota variability in different regions of the gastrointestinal (GI) tract and how these can change in response to diet, environment or genetics. We explore the early establishment of your microbiome and how your mode of delivery into the world (C-section or not) shapes your gut. We also discuss lifestyle factors that can alter your microbiome and the integral role the gut microbiome plays in communicating to other organs, including your brain. Dr. Sonnenburg details his recent clinical study, which found that diets rich in fermented foods (but not fiber) increase microbiota diversity and reduce signals of inflammation. Additionally, we examine how foods typical in Western Diets (e.g., high fat, low fiber, processed foods) can negatively impact the gut microbiome. Throughout the episode, we discuss actionable tools from peer-reviewed clinical findings that anyone can implement, regardless of budget, in order to optimize their gut microbiome and health.
+
+#HubermanLab #Microbiome #GutHealth 
+
+Thank you to our sponsors:
+AG1 (Athletic Greens): https://athleticgreens.com/huberman 
+ROKA: https://roka.com - code ""huberman""
+Helix Sleep: https://helixsleep.com/huberman
+
+See Andrew Huberman Live: The Brain Body Contract   
+Tuesday, May 17th: Seattle, WA
+Wednesday, May 18th: Portland, OR  
+https://hubermanlab.com/tour - code: ‘huberman’ 
+Pre-sale tickets go on sale on Tuesday, March 8th at 10 AM PT 
+
+Our Patreon page:
+https://www.patreon.com/andrewhuberman
+
+Supplements from Thorne:
+https://www.thorne.com/u/huberman
+
+Social & Website:
+Instagram - https://www.instagram.com/hubermanlab
+Twitter - https://twitter.com/hubermanlab
+Facebook - https://www.facebook.com/hubermanlab
+Website - https://hubermanlab.com
+Newsletter - https://hubermanlab.com/neural-network
+
+Dr. Justin Sonnenburg Links:
+Center for Microbiome Studies: https://stanford.io/3vGkdS0 
+Dr. Sonnenburg’s Lab: https://sonnenburglab.stanford.edu 
+Dr. Sonnenburg’s Published Work: https://stanford.io/3HN6eMF
+
+Article Links:
+""Gut-microbiota-targeted diets modulate human immune status"": https://bit.ly/3sLv2QI
+
+Book Links:
+""The Good Gut: Taking Control of Your Weight, Your Mood, and Your Long-Term Health"": https://amzn.to/35RQP0c
+""The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything and Living the Good Life"": https://amzn.to/3hqxkP0
+
+Other Links:
+NIH Human Microbiome Project: https://hmpdacc.org 
+
+Timestamps:
+00:00:00 Dr. Justin Sonnenburg, Gut Microbiome 
+00:02:55 The Brain Body Contract   
+00:04:16 AG1 (Athletic Greens), ROKA, Helix Sleep 
+00:08:30 What is the Gut Microbiome?
+00:12:49 Gastrointestinal (GI) Tract & Microbiota Variability 
+00:16:00 Breast Feeding, C-Sections & Pets
+00:21:56 The Human Microbiome Project at Stanford
+00:26:30 Traditional vs. Industrialized Populations
+00:28:58 Resilience of the Microbiome
+00:35:10 Regional Differences Along Your GI Tract 
+00:42:04 Fasting, Cleanses & Gut Health
+00:51:19 Dietary Differences 
+01:01:24 Simple vs. Complex Carbohydrates, Processed Foods 
+01:07:03 Artificial & Plant-based Sweeteners 
+01:12:44 Cleanses: Useful? Harmful?  
+01:14:50 Your Microbiome & Your Immune System
+01:20:17 Dietary Fiber & Fermented Foods 
+01:32:13 High-Fiber vs. High-Fermented Diet; Inflammation
+01:41:33 Ripple Effects of a Healthy Diet
+01:45:00 Does a High-Fiber Diet Make Inflammation Worse?
+01:47:22 Over Sterilized Environments 
+01:50:15 The Gut Microbiome’s Effect on Physiology 
+01:56:45 Gut-Brain Connection 
+01:59:30 Probiotics: Benefits & Risks
+02:04:20 Prebiotics: Essential?
+02:07:00 Tools for Enhancing Your Gut Microbiota 
+02:11:12 Dr. Sonnenburg’s Research, Zero-Cost Support, YouTube, Spotify, Apple Reviews, Sponsors, Patreon, Thorne, Instagram, Twitter, Neural Network Newsletter 
+
+Please note that The Huberman Lab Podcast is distinct from Dr. Huberman's teaching and research roles at Stanford University School of Medicine. The information provided in this show is not medical advice, nor should it be taken or applied as a replacement for medical advice. The Huberman Lab Podcast, its employees, guests and affiliates assume no liability for the application of the information discussed.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com
+Audio Engineering: Joel Hatstat at High Jump Media",8078.0,True,"/Users/Никита/Desktop/youtube/audio/Dr Justin Sonnenburg: How to Build, Maintain  Repair Gut Health  Huberman Lab Podcast #62.mp3",https://i.ytimg.com/vi/ouCWNRvPk20/sddefault.jpg,True
+aGBLRlLe7X8,Oriol Vinyals: Deep Learning and Artificial General Intelligence  Lex Fridman Podcast #306,Lex Fridman,"Oriol Vinyals is the Research Director and Deep Learning Lead at DeepMind. Please support this podcast by checking out our sponsors:
+- Shopify: https://shopify.com/lex to get 14-day free trial
+- Weights & Biases: https://lexfridman.com/wnb
+- Magic Spoon: https://magicspoon.com/lex and use code LEX to get $5 off
+- Blinkist: https://blinkist.com/lex and use code LEX to get 25% off premium
+
+EPISODE LINKS:
+Oriol's Twitter: https://twitter.com/oriolvinyalsml
+Oriol's publications: https://scholar.google.com/citations?user=NkzyCvUAAAAJ
+DeepMind's Twitter: https://twitter.com/DeepMind
+DeepMind's Instagram: https://instagram.com/deepmind
+DeepMind's Website: https://deepmind.com
+Papers:
+1. Gato: https://deepmind.com/publications/a-generalist-agent
+2. Flamingo: https://deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
+3. Language Models are Few-Shot Learners: https://arxiv.org/abs/2005.14165
+4. Emergent Abilities of Large Language Models: https://arxiv.org/abs/2206.07682
+5. Attention Is All You Need: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+0:34 - AI
+15:31 - Weights
+21:50 - Gato
+56:38 - Meta learning
+1:10:37 - Neural networks
+1:33:02 - Emergence
+1:39:47 - AI sentience
+2:03:43 - AGI
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",7808.0,True,/Users/Никита/Desktop/youtube/audio/Oriol Vinyals: Deep Learning and Artificial General Intelligence  Lex Fridman Podcast #306.mp3,https://i.ytimg.com/vi/aGBLRlLe7X8/sddefault.jpg,True
+Gfr50f6ZBvo,"Demis Hassabis: DeepMind - AI, Superintelligence  the Future of Humanity  Lex Fridman Podcast #299",Lex Fridman,"Demis Hassabis is the CEO and co-founder of DeepMind. Please support this podcast by checking out our sponsors:
+- Mailgun: https://lexfridman.com/mailgun
+- InsideTracker: https://insidetracker.com/lex to get 20% off
+- Onnit: https://lexfridman.com/onnit to get up to 10% off
+- Indeed: https://indeed.com/lex to get $75 credit
+- Magic Spoon: https://magicspoon.com/lex and use code LEX to get $5 off
+
+EPISODE LINKS:
+Demis's Twitter: https://twitter.com/demishassabis
+DeepMind's Twitter: https://twitter.com/DeepMind
+DeepMind's Instagram: https://instagram.com/deepmind
+DeepMind's Website: https://deepmind.com
+Plasma control paper: https://nature.com/articles/s41586-021-04301-9
+Quantum simulation paper: https://science.org/doi/10.1126/science.abj6511
+The Emperor's New Mind (book): https://amzn.to/3bx03lo
+Life Ascending (book): https://amzn.to/3AhUP7z
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:01 - Turing Test
+8:27 - Video games
+30:02 - Simulation
+32:13 - Consciousness
+37:13 - AlphaFold
+50:53 - Solving intelligence
+1:03:12 - Open sourcing AlphaFold & MuJoCo
+1:13:18 - Nuclear fusion
+1:17:22 - Quantum simulation
+1:20:30 - Physics
+1:23:57 - Origin of life
+1:28:36 - Aliens
+1:36:43 - Intelligent life
+1:39:52 - Conscious AI
+1:53:07 - Power
+1:57:37 - Advice for young people
+2:05:43 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",7839.0,True,"/Users/Никита/Desktop/youtube/audio/Demis Hassabis: DeepMind - AI, Superintelligence  the Future of Humanity  Lex Fridman Podcast #299.mp3",https://i.ytimg.com/vi/Gfr50f6ZBvo/sddefault.jpg,True
+5zOHSysMmH0,"Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse  Lex Fridman Podcast #267",Lex Fridman,"Mark Zuckerberg is CEO of Meta, formerly Facebook.
+
+Please support this podcast by checking out our sponsors:
+- Paperspace: https://gradient.run/lex to get $15 credit
+- Coinbase: https://coinbase.com/lex to get $5 in free Bitcoin
+- InsideTracker: https://insidetracker.com/lex and use code Lex25 to get 25% off
+- ExpressVPN: https://expressvpn.com/lexpod and use code LexPod to get 3 months free
+- Blinkist: https://blinkist.com/lex and use code LEX to get 25% off premium
+
+EPISODE LINKS:
+Mark's Facebook: https://facebook.com/zuck
+Mark's Instagram: https://instagram.com/zuck
+Meta AI: https://ai.facebook.com/
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+5:36 - Metaverse
+25:36 - Identity in Metaverse
+37:45 - Security
+42:10 - Social Dilemma
+1:04:16 - Instagram whistleblower
+1:09:01 - Social media and mental health
+1:14:26 - Censorship
+1:31:35 - Translation
+1:39:10 - Advice for young people
+1:44:58 - Daughters
+1:47:46 - Mortality
+1:52:19 - Question for God
+1:55:25 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",7213.0,True,"/Users/Никита/Desktop/youtube/audio/Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse  Lex Fridman Podcast #267.mp3",https://i.ytimg.com/vi/5zOHSysMmH0/sddefault.jpg,True
+6G59zsjM2UI,Joe Rogan Experience #1006 - Jordan Peterson  Bret Weinstein,PowerfulJRE,"Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto. You can check out all Dr. Peterson's self-improvement writing programs at www.selfauthoring.com 
+Bret Weinstein is a biology professor at Evergreen State College in Olympia, WA. Currently he is in the middle of an intense controversy that has been documented by the Wall Street Journal, New York Times, and several other mainstream media outlets. Sign up for a free crash course on Evolutionary Thinking at http://bretweinstein.net/early",9896.0,True,/Users/Никита/Desktop/youtube/audio/Joe Rogan Experience #1006 - Jordan Peterson  Bret Weinstein.mp3,https://i.ytimg.com/vi/6G59zsjM2UI/sddefault.jpg?v=59a9e07c,True
+9Xc7DN-noAc,Joe Rogan Experience #1139 - Jordan Peterson,PowerfulJRE,"Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.
+
+https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q
+
+All Dr. Peterson’s self-improvement writing programs at www.selfauthoring.com 20% off for Rogan listeners. Code: ROGAN",12021.0,True,/Users/Никита/Desktop/youtube/audio/Joe Rogan Experience #1139 - Jordan Peterson.mp3,https://i.ytimg.com/vi/9Xc7DN-noAc/sddefault.jpg?v=5b3aabb7,True
+5tSTk1083VY,Joe Rogan Experience #1080 - David Goggins,PowerfulJRE,"David Goggins is a retired Navy SEAL and former USAF Tactical Air Control Party member who served in Iraq and Afghanistan. He is an ultramarathon runner, ultra-distance cyclist, triathlete and world record holder for the most pull-ups done in 24 hours. http://davidgoggins.com/",6863.0,True,/Users/Никита/Desktop/youtube/audio/Joe Rogan Experience #1080 - David Goggins.mp3,https://i.ytimg.com/vi/5tSTk1083VY/sddefault.jpg?v=5a8b5bea,True
+eAwTWtZdv0c,Крестный отец обсуждение с  Евгением Жариновым,Каро Арт,"«Никто этот фильм не видел, но все этот саундтрек слышали», — так вспоминает о своем первом «знакомстве» с «Крестным отцом» литературовед Евгений Жаринов.
+⠀
+Сейчас мы можем не выбирать: мы и слушаем саундтрек, и смотрим легендарный фильм на большом экране.
+⠀
+Как так вышло, что гангстерская сага стала настолько известной? Как получилось, что картина, снятая исключительно из-за денег, собирает залы 50 лет спустя?
+⠀
+24 февраля мы возвращаем «Крестного отца» на большие экраны. Уже купили билеты?
+⠀
+Партнер показа — «Централ Партнершип»",5640.0,True,/Users/Никита/Desktop/youtube/audio/Крестный отец обсуждение с  Евгением Жариновым.mp3,https://i.ytimg.com/vi/eAwTWtZdv0c/sddefault.jpg?v=62154ba9,True
+lvh3g7eszVQ,"Andrew Huberman: Focus, Stress, Relationships, and Friendship  Lex Fridman Podcast #277",Lex Fridman,"Andrew Huberman is a neuroscientist at Stanford and host of the Huberman Lab Podcast. Please support this podcast by checking out our sponsors:
+- Brave: https://brave.com/lex
+- LMNT: https://drinkLMNT.com/lex to get free sample pack
+- ROKA: https://roka.com/ and use code LEX to get 20% off your first order
+- Indeed: https://indeed.com/lex to get $75 credit
+- MasterClass: https://masterclass.com/lex to get 15% off
+
+EPISODE LINKS:
+Andrew's YouTube: https://youtube.com/AndrewHubermanLab
+Huberman Lab Podcast: https://hubermanlab.com
+Andrew's Twitter: https://twitter.com/hubermanlab
+Andrew's Instagram: https://instagram.com/hubermanlab
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:15 - Diet
+11:20 - Attribution in science
+14:02 - Rick Rubin
+21:48 - Mental states
+36:28 - Controversial guests
+49:10 - Karl Deisseroth
+53:25 - Difficult conversations
+1:00:26 - Big guests
+1:14:12 - Academia
+1:21:13 - Freedom of speech
+1:32:16 - If by Rudyard Kipling
+1:39:27 - Music
+1:45:06 - Public speaking
+2:04:02 - Non-sleep deep rest
+2:18:23 - Focus
+2:28:43 - Stress and anxiety
+2:48:39 - Sauna
+3:00:04 - Sex
+3:07:57 - Love and relationships
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",12322.0,True,"/Users/Никита/Desktop/youtube/audio/Andrew Huberman: Focus, Stress, Relationships, and Friendship  Lex Fridman Podcast #277.mp3",https://i.ytimg.com/vi/lvh3g7eszVQ/sddefault.jpg,True
+DkS1pkKpILY,"What Alcohol Does to Your Body, Brain  Health  Huberman Lab Podcast #86",Andrew Huberman,"In this episode, I discuss the physiological effects that drinking alcohol has on the brain and body at different levels of consumption and over time. I also describe genetic differences that predispose certain individuals to alcoholism, binge and habit-drinking. I explain alcohol metabolism in simple terms and how it effectively acts as a poison, leading to cellular stress and damage. I then explain that it impacts neuronal function and changes our thinking and behavior – hallmarks of inebriation. I also discuss how alcohol consumption of different amounts impacts inflammation, stress, neurodegeneration, and cancer risk and negatively impacts the gut microbiome, brain thickness, hormone balance, mood and feelings of motivation. Additionally, I discuss the biology of hangovers and describe science-based strategies to mitigate the severity of a hangover. Since alcohol is one of the most widely consumed recreational substances, this episode ought to be of relevance to everyone.  Indeed, even low-to-moderate alcohol consumption negatively impacts the brain and body in direct ways. The goal of this episode is to help people make informed decisions about their alcohol consumption that are in keeping with their mental and physical health goals. 
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+Levels: https://levels.link/huberman
+Eight Sleep: https://www.eightsleep.com/huberman
+ROKA: https://www.roka.com/huberman
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Articles
+Associations between alcohol consumption and gray and white matter volumes in the UK Biobank: https://go.nature.com/3PNFj7y
+Gut Microbiota at the Intersection of Alcohol, Brain, and the Liver: https://bit.ly/3AaeF2F
+Tolerance to alcohol: A critical yet understudied factor in alcohol addiction: https://bit.ly/3CmfCYo
+Associations Between Drinking and Cortical Thickness in Younger Adult Drinkers: Findings From the Human Connectome Project: https://bit.ly/3AeUosJ
+Moderate Alcohol Consumption and the Risk of Breast Cancer: https://bit.ly/3PHlJcK
+Can alcohol promote aromatization of androgens to estrogens? A review: https://bit.ly/3dJjGHZ
+
+Other Resources
+Examine - Alcohol & Hangover: https://bit.ly/3QHYpx4
+
+Timestamps
+00:00:00 Effects of Alcohol Consumption
+00:02:25 Momentous Supplements 
+00:03:19 Low to Moderate Alcohol Consumption & Neurodegeneration 
+00:06:52 Levels, Eight Sleep, ROKA 
+00:10:46 Historical Context & Uses of Alcohol 
+00:13:28 Alcohol Metabolism, “Empty Calories” 
+00:18:23 Inebriation: Top-Down Inhibition, Impulsivity & Memory Formation
+00:24:23 Long-Lasting Effects & Impulsivity, Neuroplasticity & Reversibility 
+00:27:55 Food & Alcohol Absorption
+00:30:07 Alcohol & Serotonin, SSRIs & Depression, Risk for Alcoholism, Blackouts
+00:37:39 Predisposition for Alcoholism; Chronic Consumption, Cortisol & Stress
+00:44:53 AG1 (Athletic Greens)
+00:46:07 Genetic Predisposition for Alcoholism, Consuming Alcohol Too Young
+00:52:27 Gut-Liver-Brain Axis: Alcohol, Gut Microbiome, Inflammation & Leaky Gut 
+00:59:46 Tool: Improving/Replenishing Gut Microbiome 
+01:02:44 Reducing Alcohol Consumption & Stress 
+01:04:25 Hangover: Alcohol & Sleep, Anxiety, Headache
+01:12:11 Hangover Recovery, Adrenaline & Deliberate Cold Exposure 
+01:17:16 Hangover Recovery, Dehydration & Electrolytes
+01:20:45 Types of Alcohol & Hangover Severity, Congeners  
+01:25:25 Alcohol Tolerance, Dopamine & Serotonin, Pleasure-Pain Balance   
+01:33:36 Are There Any Positive Effects of Alcohol?, Resveratrol 
+01:35:42 Alcohol & Brain Thickness 
+01:37:11 Alcohol & Cancer Risk: DNA Methylation, Breast Cancer Risk 
+01:44:31 Mitigating Cancer Risk, Folate, B Vitamins 
+01:46:54 Alcohol & Pregnancy, Fetal Alcohol Syndrome 
+01:50:58 Hormones: Testosterone & Estrogen Balance
+01:55:09 Negative Effects of Alcohol Consumption 
+01:58:35 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Instagram, Twitter, Neural Network Newsletter, Huberman Lab Clips
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.",7262.0,True,"/Users/Никита/Desktop/youtube/audio/What Alcohol Does to Your Body, Brain  Health  Huberman Lab Podcast #86.mp3",https://i.ytimg.com/vi/DkS1pkKpILY/sddefault.jpg,True
+gk4tEO4jDUM,"Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom  Lex Fridman Podcast #300",Lex Fridman,"Joe Rogan is a comedian, UFC commentator, and host of the Joe Rogan Experience. Please support this podcast by checking out our sponsors:
+- Theragun: https://therabody.com/lex
+- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get 1 month of fish oil
+- InsideTracker: https://insidetracker.com/lex to get 20% off
+- Eight Sleep: https://www.eightsleep.com/lex and use code LEX to get special savings
+- ExpressVPN: https://expressvpn.com/lexpod and use code LexPod to get 3 months free
+
+EPISODE LINKS:
+Joe's Instagram: https://instagram.com/joerogan
+Joe's Twitter: https://twitter.com/joerogan
+JRE (Spotify): https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk
+JRE (YouTube): https://youtube.com/c/joerogan
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:02 - Discipline
+5:05 - Controversy
+25:22 - UFOs and aliens
+35:33 - Intelligence agencies
+40:57 - Trust
+46:20 - Greatest comedians
+1:04:15 - Childhood
+1:11:45 - Advice for young people
+1:22:21 - Relationships
+1:26:59 - Putin, Ukraine, and Russia
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",6081.0,True,"C:/Users/Никита/Desktop/youtube/audio/Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom  Lex Fridman Podcast #300.mp3",https://i.ytimg.com/vi/gk4tEO4jDUM/sddefault.jpg,True
+gp4U5aH_T6A,"Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics  Lex Fridman Podcast #284",Lex Fridman,"Saifedean Ammous is an Austrian economist and author of The Bitcoin Standard and The Fiat Standard. Please support this podcast by checking out our sponsors:
+- GiveWell: https://www.givewell.org/ and use code LEX
+- Scale: https://scale.com/lex
+- Uncruise: https://uncruise.com/pages/lex
+- BiOptimizers: http://www.magbreakthrough.com/lex to get 10% off
+- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get 1 month of fish oil
+
+EPISODE LINKS:
+Saifedean's Twitter: https://twitter.com/saifedean
+Saifedean's Website: https://saifedean.com
+The Bitcoin Standard podcast: https://saifedean.com/podcast
+Books & resources mentioned:
+The Fiat Standard (book): https://amzn.to/3FmNfsy
+The Bitcoin Standard (book): https://amzn.to/3LRrcwA
+The Blocksize War (book): https://amzn.to/3LORQ9o
+The Theory of Money and Credit (book): https://amzn.to/3ykreZT
+Human Action (book): https://amzn.to/3w9LzP4
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:33 - Money
+14:38 - Gold standard
+27:49 - Collective hallucination
+33:39 - Austrian vs Keynesian economics
+1:06:00 - Free market
+1:22:29 - Monarchy
+1:28:03 - Fiat money
+2:14:53 - SWIFT system
+2:27:43 - Bitcoin
+2:34:00 - Satoshi Nakamoto
+2:41:44 - Criticisms of Bitcoin
+2:56:56 - Football/soccer
+3:00:38 - Criticisms of Bitcoin continued
+3:10:57 - Bitcoin Maximalism
+3:23:20 - Proof of stake
+3:40:26 - Central bank digital currency
+3:51:39 - Michael Malice
+3:53:52 - Advice for young people
+4:00:01 - Palestine
+4:11:40 - Mortality
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",15280.0,True,"C:/Users/Nikita/Desktop/youtube/audio/Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics  Lex Fridman Podcast #284.mp3",https://i.ytimg.com/vi/gp4U5aH_T6A/sddefault.jpg,True
+BCdV6BMMpOo,"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind  Lex Fridman Podcast #261",Lex Fridman,"Philip Goff is a philosopher of mind and consciousness at Durham University and author of Galileo's Error. Please support this podcast by checking out our sponsors:
+- InsideTracker: https://insidetracker.com/lex and use code Lex25 to get 25% off
+- Grammarly: https://grammarly.com/lex to get 20% off premium
+- Indeed: https://indeed.com/lex to get $75 credit
+- Magic Spoon: https://magicspoon.com/lex and use code LEX to get $5 off
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+
+EPISODE LINKS:
+Philip's Twitter: https://twitter.com/Philip_Goff
+Philip's Website: http://www.philipgoffphilosophy.com/
+Galileo's Error (book): https://amzn.to/3ustY5B
+Consciousness and Fundamental Reality (book): https://amzn.to/3ojldH1
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:14 - Conscious matter
+34:40 - Death, mystical experiences and collective consciousness
+45:04 - The authority of expertise
+1:06:00 - Panpsychism and physics
+1:34:45 - Suffering, zombies and illusion
+2:07:31 - JRE podcast recap
+2:19:07 - Free will
+2:36:46 - Are we living in a simulation?
+2:40:37 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",9991.0,True,"/Users/Nikita/Desktop/youtube/audio/Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind  Lex Fridman Podcast #261.mp3",https://i.ytimg.com/vi/BCdV6BMMpOo/sddefault.jpg,True
+DxREm3s1scA,"Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI  Lex Fridman Podcast #252",Lex Fridman,"Elon Musk is CEO of SpaceX, Tesla, Neuralink, and The Boring Company.
+
+To support this podcast by checking out our sponsors:
+- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get 1 month of fish oil
+- ButcherBox: https://butcherbox.com/lex to get offers & discounts
+- InsideTracker: https://insidetracker.com/lex and use code Lex25 to get 25% off
+- ROKA: https://roka.com/ and use code LEX to get 20% off your first order
+- Eight Sleep: https://www.eightsleep.com/lex and use code LEX to get special savings
+
+EPISODE LINKS:
+Elon's Twitter: https://twitter.com/elonmusk
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+0:07 - Elon singing
+0:55 - SpaceX human spaceflight
+7:40 - Starship
+16:16 - Quitting is not in my nature
+17:51 - Thinking process
+27:25 - Humans on Mars
+32:55 - Colonizing Mars
+36:41 - Wormholes
+41:19 - Forms of government on Mars
+48:22 - Smart contracts
+49:52 - Dogecoin
+51:24 - Cryptocurrency and Money
+57:33 - Bitcoin vs Dogecoin
+1:00:16 - Satoshi Nakamoto
+1:02:38 - Tesla Autopilot
+1:05:44 - Tesla Self-Driving
+1:17:48 - Neural networks
+1:26:44 - When will Tesla solve self-driving?
+1:28:48 - Tesla FSD v11
+1:36:21 - Tesla Bot
+1:47:01 - History
+1:54:52 - Putin
+2:00:32 - Meme Review
+2:14:58 - Stand-up comedy
+2:16:31 - Rick and Morty
+2:18:10 - Advice for young people
+2:26:08 - Love
+2:29:01 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",9108.0,True,"/Users/Nikita/Desktop/youtube/audio/Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI  Lex Fridman Podcast #252.mp3",https://i.ytimg.com/vi/DxREm3s1scA/sddefault.jpg,True
+Hc4XvHTlW3s,Matt Walker: Sleep  Lex Fridman Podcast #210,Lex Fridman,"Matt Walker is a sleep scientist at Berkeley, author of Why We Sleep, and the host of a new podcast called The Matt Walker Podcast. Please support this podcast by checking out our sponsors:
+- Stamps.com: https://stamps.com and use code LEX to get free postage & scale
+- Squarespace: https://lexfridman.com/squarespace and use code LEX to get 10% off
+- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get 1 month of fish oil
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+- Onnit: https://lexfridman.com/onnit to get up to 10% off
+
+EPISODE LINKS:
+Matt's Podcast: https://themattwalkerpodcast.buzzsprout.com/
+Matt's Twitter: https://twitter.com/sleepdiplomat
+Matt's Instagram: https://www.instagram.com/drmattwalker
+Matt's Website: https://www.sleepdiplomat.com/
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+2:05 - Putin moment: Lex takes Matt's sunglasses
+2:26 - Fascination with sleep
+6:35 - Why do we sleep?
+15:06 - Computer vision for driver assistance
+24:28 - Consciousness is fundamental
+32:34 - Lex on human to robot connection
+35:01 - Scent of a Woman is better than ""John Wick""
+46:42 - Distinction between coffee and caffeine
+1:12:26 - The science of 'sleeping on it'
+1:26:19 - Lex on his sleeping schedule
+1:51:23 - Chronotypes
+1:58:52 - How to overcome insomnia
+2:16:15 - Diet and sleep
+2:25:12 - Where do dreams come from?
+2:38:50 - How sleep affects emotions
+2:45:43 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",10098.0,True,/Users/Nikita/Desktop/youtube/audio/Matt Walker: Sleep  Lex Fridman Podcast #210.mp3,https://i.ytimg.com/vi/Hc4XvHTlW3s/sddefault.jpg,True
+2tUiLxtrLxk,Rick Doblin: Psychedelics  Lex Fridman Podcast #202,Lex Fridman,"Rick Doblin is a psychedelics researcher and the founder and executive director of the Multidisciplinary Association for Psychedelic Studies (MAPS). Please support this podcast by checking out our sponsors:
+- Theragun: https://therabody.com/lex to get 30 day trial
+- ExpressVPN: https://expressvpn.com/lexpod and use code LexPod to get 3 months free
+- Blinkist: https://blinkist.com/lex and use code LEX to get 25% off premium
+- Eight Sleep: https://www.eightsleep.com/lex and use code LEX to get special savings
+
+EPISODE LINKS:
+Rick's Twitter: https://twitter.com/RickDoblin
+MAPS: https://maps.org
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:39 - Introduction to psychedelics
+4:54 - Psychedelics reveals the inner depths of humans
+17:28 - Differences between psychedelics
+24:53 - The future of psychedelics
+33:37 - Epigenetics
+39:34 - DMT
+47:00 - Ego dissolution
+50:17 - One Flew Over The Cuckoo's Nest
+53:17 - Psychedelics and Creativity
+57:10 - MKUltra and the Grateful Dead
+1:01:49 - Ted Kaczynski
+1:07:31 - Timothy Leary
+1:14:55 - Good Friday Experiment
+1:19:30 - Forming of MAPS
+1:30:45 - Gaining access to psychedelics
+1:39:15 - MDMA Medical Trials
+2:10:45 - Clinical Trials for other substances
+2:15:28 - Future of society with psychedelics
+2:19:58 - Big Pharma
+2:26:17 - Advice for the younger generations
+2:32:02 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",9366.0,True,/Users/Nikita/Desktop/youtube/audio/Rick Doblin: Psychedelics  Lex Fridman Podcast #202.mp3,https://i.ytimg.com/vi/2tUiLxtrLxk/sddefault.jpg,True
+TG6BuSjwP4o,"Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic  Lex Fridman Podcast #194",Lex Fridman,"Bret Weinstein is and evolutionary biologist, author, and co-host of the DarkHorse Podcast. Please support this podcast by checking out our sponsors:
+- The Jordan Harbinger Show: https://www.youtube.com/thejordanharbingershow
+- ExpressVPN: https://expressvpn.com/lexpod and use code LexPod to get 3 months free
+- Magic Spoon: https://magicspoon.com/lex and use code LEX to get $5 off
+- Four Sigmatic: https://foursigmatic.com/lex and use code LexPod to get up to 60% off
+
+EDIT NOTE: I edited this episode quickly and made a couple of mistakes in how rough the cut looks. One weird cut is after the 2 hour mark, where it sounds like Bret is about to make a point, but I actually interrupt him for clarification and then go of on a tangent and never return. I edited out the interruption which made the cut look weird. I failed here both as an interviewer and editor. I'm trying to get better at both, and hire help for the latter, since I still do it all alone. Please be patient with me.
+
+EPISODE LINKS:
+Bret's Twitter: https://twitter.com/BretWeinstein
+Bret's YouTube: https://www.youtube.com/BretWeinsteinDarkHorse
+Bret's Website: https://bretweinstein.net/
+Bret's Book: https://amzn.to/3dhVWrv
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+3:14 - Why biology is beautiful
+10:47 - Boston Dynamics
+14:11 - Being self-critical
+24:19 - Theory of close calls
+32:56 - Lab leak hypothesis
+1:06:50 - Joe Rogan
+1:16:00 - Censorship
+1:52:49 - Vaccines
+2:06:35 - The paper on mice with long telomeres
+2:34:18 - Martyrdom
+2:43:03 - Eric Weinstein
+2:52:23 - Monogamy
+3:04:41 - Advice for young people
+3:11:25 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",11829.0,True,"/Users/Nikita/Desktop/youtube/audio/Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic  Lex Fridman Podcast #194.mp3",https://i.ytimg.com/vi/TG6BuSjwP4o/sddefault.jpg,True
+4dC_nRYIDZU,"Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning  Lex Fridman Podcast #185",Lex Fridman,"Sam Harris is an author, podcaster, and philosopher. Please support this podcast by checking out our sponsors:
+- National Instruments (NI): https://www.ni.com/perspectives
+- Belcampo: https://belcampo.com/lex and use code LEX to get 20% off first order
+- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get 1 month of fish oil
+- Linode: https://linode.com/lex to get $100 free credit
+
+EPISODE LINKS:
+Sam's Twitter: https://twitter.com/SamHarrisOrg
+Sam's Website: https://samharris.org/
+Sam's YouTube: https://www.youtube.com/channel/UCNAxrHudMfdzNi6NxruKPLw
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:48 - Where do thoughts come from?
+7:49 - Consciousness
+25:21 - Psychedelics
+34:44 - Nature of reality
+51:40 - Free will
+1:50:25 - Ego
+1:59:29 - Joe Rogan
+2:02:30 - How will human civilization destroy itself?
+2:09:57 - AI
+2:30:40 - Jordan Peterson
+2:38:43 - UFOs
+2:46:32 - Brazilian Jiu Jitsu
+2:56:17 - Love
+3:07:21 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",11840.0,True,"/Users/Nikita/Desktop/youtube/audio/Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning  Lex Fridman Podcast #185.mp3",https://i.ytimg.com/vi/4dC_nRYIDZU/sddefault.jpg,True
+CY_LEa9xQtg,Risto Miikkulainen: Neuroevolution and Evolutionary Computation  Lex Fridman Podcast #177,Lex Fridman,"Risto Miikkulainen is a computer scientist at UT Austin. Please support this podcast by checking out our sponsors:
+- The Jordan Harbinger Show: https://jordanharbinger.com/lex/
+- Grammarly: https://grammarly.com/lex to get 20% off premium
+- Belcampo: https://belcampo.com/lex and use code LEX to get 20% off first order
+- Indeed: https://indeed.com/lex to get $75 credit
+
+EPISODE LINKS:
+Risto's Website: https://www.cs.utexas.edu/users/risto/
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:07 - If we re-ran Earth over 1 million times
+4:24 - Would aliens detect humans?
+7:02 - Evolution of intelligent life
+10:47 - Fear of death
+17:03 - Hyenas
+20:28 - Language
+23:59 - The magic of programming
+29:59 - Neuralink
+37:31 - Surprising discoveries by AI
+41:06 - How evolutionary computation works
+52:28 - Learning to walk
+55:41 - Robots and a theory of mind
+1:04:45 - Neuroevolution
+1:15:03 - Tesla Autopilot
+1:18:28 - Language and vision
+1:24:09 - Aliens communicating with humans
+1:29:45 - Would AI learn to lie to humans?
+1:36:20 - Artificial life
+1:41:12 - Cellular automata
+1:46:49 - Advice for young people
+1:51:25 - Meaning of life
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",6977.0,True,/Users/Nikita/Desktop/youtube/audio/Risto Miikkulainen: Neuroevolution and Evolutionary Computation  Lex Fridman Podcast #177.mp3,https://i.ytimg.com/vi/CY_LEa9xQtg/sddefault.jpg,True
+ClxRHJPz8aQ,"Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity  Lex Fridman Podcast #164",Lex Fridman,"Andrew Huberman is a neuroscientist at Stanford. Please support this podcast by checking out our sponsors:
+- MasterClass: https://masterclass.com/lex to get 15% off
+- Four Sigmatic: https://foursigmatic.com/lex and use code LexPod to get up to 60% off
+- Magic Spoon: https://magicspoon.com/lex and use code LEX to get $5 off
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+
+EPISODE LINKS:
+Andrew's YouTube: https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg
+Huberman Lab Podcast: https://hubermanlab.libsyn.com/
+Andrew's Instagram: https://www.instagram.com/hubermanlab​
+Andrew's Wikipedia: https://en.wikipedia.org/wiki/Andrew_...​
+Andrew's Website: http://www.hubermanlab.com/
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:28 - Why do humans need sleep?
+8:24 - Temperature
+11:12 - Optimal temperature for sleep
+16:15 - Sleep anxiety
+22:19 - 8 hours of sleep
+24:55 - Nap
+30:43 - Goggins Challenge
+46:06 - Breathing while running
+50:54 - Anger
+54:11 - Testosterone
+59:27 - Fasting
+1:07:32 - Keto
+1:10:22 - Meat
+1:16:02 - Nutrition
+1:17:28 - Dreams
+1:25:35 - REM sleep
+1:31:37 - Psychedelics
+1:43:01 - DMT
+1:47:35 - Creativity
+1:51:09 - Pushing the limits of the human mind
+1:56:19 - Neuroplasticity
+2:00:56 - Neuroscience and AI
+2:05:38 - Eye tracking
+2:14:52 - New podcast on neuroscience
+2:29:23 - Clubhouse
+2:41:32 - Elon Musk
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/LexFridmanPage
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",10403.0,True,"/Users/Nikita/Desktop/youtube/audio/Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity  Lex Fridman Podcast #164.mp3",https://i.ytimg.com/vi/ClxRHJPz8aQ/sddefault.jpg,True
+ifX_JnBfxTY,"Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics  Lex Fridman Podcast #163",Lex Fridman,"Eric Weinstein is a mathematical physicist and podcaster. Please support this podcast by checking out our sponsors:
+- Indeed: https://indeed.com/fridman to get $75 credit
+- Theragun: https://theragun.com/lex to get 30 day trial
+- Wine Access: https://wineaccess.com/lex to get 20% off first order
+- Blinkist: https://blinkist.com/lex and use code LEX to get 25% off premium
+
+EPISODE LINKS:
+Eric's Twitter: https://twitter.com/EricRWeinstein​
+Eric's YouTube: https://www.youtube.com/ericweinsteinphd
+The Portal podcast: https://podcasts.apple.com/us/podcast/the-portal/id1469999563
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:29 - Aliens and physics
+5:14 - Breaking the frame of conversation
+6:59 - Time travel across multiple dimensions
+13:10 - Is the government in possession of alien spacecraft?
+19:33 - Freedom of speech
+30:52 - Elon Musk
+32:09 - Idealism of every era
+35:29 - Non-locality of free speech in the Internet age
+41:05 - Glenn Beck
+43:00 - Joe Rogan
+47:44 - Freedom and fear
+49:16 - Jeffrey Epstein
+52:56 - Aaron Swartz
+58:32 - Jeffrey Epstein and Geometric Unity
+1:18:07 - Cancel culture
+1:20:09 - Alex Jones
+1:29:03 - Curtis Yarvin
+1:33:42 - Michael Malice
+1:36:02 - Intellectual Dark Web
+1:42:54 - Innovation
+1:56:13 - Economics
+2:03:31 - Cryptocurrency
+2:09:39 - Geometric Unity paper
+2:26:44 - David Goggins challenge
+2:28:07 - Father and son
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/LexFridmanPage
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",9520.0,True,"/Users/Nikita/Desktop/youtube/audio/Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics  Lex Fridman Podcast #163.mp3",https://i.ytimg.com/vi/ifX_JnBfxTY/sddefault.jpg,True
+yzMVEbs8Zz0,Charles Isbell and Michael Littman: Machine Learning and Education  Lex Fridman Podcast #148,Lex Fridman,"Charles Isbell is the Dean of the College of Computing at Georgia Tech. Michael Littman is a computer scientist at Brown University. Please support this podcast by checking out our sponsors:
+- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get 1 month of fish oil
+- Eight Sleep: https://www.eightsleep.com/lex and use code LEX to get special savings
+- MasterClass: https://masterclass.com/lex to get 2 for price of 1
+- Cash App: https://cash.app/ and use code LexPodcast to get $10
+
+EPISODE LINKS:
+Charles's Twitter: https://twitter.com/isbellHFh
+Charles's Website: https://www.cc.gatech.edu/~isbell/
+Michael's Twitter: https://twitter.com/mlittmancs
+Michael's Website: https://www.littmania.com/
+Michael's YouTube: https://www.youtube.com/user/mlittman
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+2:27 - Is machine learning just statistics?
+6:49 - NeurIPS vs ICML
+9:05 - Data is more important than algorithm
+14:49 - The role of hardship in education
+23:33 - How Charles and Michael met
+28:05 - Key to success: never be satisfied
+31:23 - Bell Labs
+42:50 - Teaching machine learning
+53:01 - Westworld and Ex Machina
+1:01:00 - Simulation
+1:07:49 - The college experience in the times of COVID
+1:36:27 - Advice for young people
+1:43:19 - How to learn to program
+1:54:43 - Friendship
+
+CONNECT:
+- Subscribe to this YouTube channel
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/LexFridmanPage
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",7067.0,True,/Users/Nikita/Desktop/youtube/audio/Charles Isbell and Michael Littman: Machine Learning and Education  Lex Fridman Podcast #148.mp3,https://i.ytimg.com/vi/yzMVEbs8Zz0/sddefault.jpg,True
+B2tXN7ZnSfU,Michael Malice: New Years Special  Lex Fridman Podcast #253,Lex Fridman,"Michael Malice is a political thinker, podcaster, author, and anarchist. Please support this podcast by checking out our sponsors:
+- FightCamp: https://joinfightcamp.com/lex to get free shipping
+- Linode: https://linode.com/lex to get $100 free credit
+- Magic Spoon: https://magicspoon.com/lex and use code LEX to get $5 off
+- Sunbasket: https://sunbasket.com/lex and use code LEX to get $35 off
+- ExpressVPN: https://expressvpn.com/lexpod and use code LexPod to get 3 months free
+
+EPISODE LINKS:
+Michael's Twitter: https://twitter.com/michaelmalice
+Michael's Community: https://malice.locals.com/
+Michael's YouTube: https://www.youtube.com/channel/UC5tj5QCpJKIl-KIa4Gib5Xw
+Michael's Website: http://michaelmalice.com/about/
+Your Welcome podcast: https://bit.ly/30q8oz1
+Books & resources mentioned:
+The Anarchist Handbook (book): https://amzn.to/3yUb2f0
+The New Right (book): https://amzn.to/34gxLo3
+Dear Reader (book): https://amzn.to/2HPPlHS
+The Idiot (book): https://amzn.to/3zdHdHH
+Six-Word Memoirs (book): https://amzn.to/3zg51uv
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+0:23 - Truth, goodness, and beauty
+10:50 - Save one life
+17:41 - Jeffrey Epstein
+36:36 - Jeffrey Epstein and Bill Clinton
+42:49 - Christmas and New Years for Russians
+49:29 - Russian cynicism and suffering
+57:07 - Gift exchange
+1:10:03 - Michael's move to Austin
+1:15:30 - The Anarchist Handbook
+1:22:02 - Ghislaine Maxwell
+1:26:36 - Jeffrey Epstein
+1:28:49 - Lex's move to Austin
+1:37:36 - Elon Musk
+1:40:46 - Writing The White Pill
+1:45:33 - Camus
+1:50:32 - Writing The White Pill continued
+1:55:49 - New Year's resolutions
+2:09:24 - 2024 elections
+2:21:53 - National divorce
+2:36:31 - Joe Rogan and Bret Weinstein vs Sam Harris
+2:45:41 - Conversation with CEO of Pfizer
+2:59:14 - Anthony Fauci
+3:04:44 - Advice for young people
+3:14:46 - Wife and kids
+3:20:12 - Immortality
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",12222.0,True,/Users/Nikita/Desktop/youtube/audio/Michael Malice: New Years Special  Lex Fridman Podcast #253.mp3,https://i.ytimg.com/vi/B2tXN7ZnSfU/sddefault.jpg,True
+R5rNoV1Qy_Q,Michael Malice: Totalitarianism and Anarchy  Lex Fridman Podcast #200,Lex Fridman,"Michael Malice is a political thinker, podcaster, and author. Please support this podcast by checking out our sponsors:
+- Gala Games: https://gala.games/lex
+- Indeed: https://indeed.com/lex to get $75 credit
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+- MasterClass: https://masterclass.com/lex to get 15% off
+
+EPISODE LINKS:
+Michael's Twitter: https://twitter.com/michaelmalice
+Michael's Community: https://malice.locals.com/
+Michael's YouTube: https://www.youtube.com/channel/UC5tj5QCpJKIl-KIa4Gib5Xw
+Michael's Website: http://michaelmalice.com/about/
+Your Welcome podcast: https://bit.ly/30q8oz1
+The Anarchist Handbook (book): https://amzn.to/3yUb2f0
+The New Right (book): https://amzn.to/34gxLo3
+Dear Reader (book): https://amzn.to/2HPPlHS
+Podcast (Round 1): https://www.youtube.com/watch?v=BIk1zUy8ehU
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+0:32 - Animal Farm
+3:34 - Emma Goldman
+6:39 - Albert Camus
+8:09 - How to be a hero in Nazi Germany
+15:15 - Camus on Existentialism vs Nihilism
+21:17 - Cynicism is a lie
+26:24 - Nazi invasion of the Soviet Union
+46:43 - Lex and Michael argue: can most people think on their own?
+58:21 - How Lex and Michael use Twitter
+1:07:43 - Life is beautiful
+1:10:46 - Returning to Ukraine
+1:12:39 - Michael is now an underwear model
+1:16:45 - The Anarchist Handbook
+1:18:32 - Tolstoy was an anarchist
+1:31:14 - Anarchy debate between Lex and Michael
+2:00:22 - Why Michael doesn't vote
+2:17:37 - Austin and New York
+2:26:13 - Alex Jones
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",9441.0,True,/Users/Nikita/Desktop/youtube/audio/Michael Malice: Totalitarianism and Anarchy  Lex Fridman Podcast #200.mp3,https://i.ytimg.com/vi/R5rNoV1Qy_Q/sddefault.jpg,True
+BvWB7B8tXK8,Joe Rogan Experience #1212 - David Goggins,PowerfulJRE,"David Goggins is a retired Navy SEAL and former USAF Tactical Air Control Party member who served in Iraq and Afghanistan. He is an ultramarathon runner, ultra-distance cyclist, triathlete and world record holder for the most pull-ups done in 24 hours. His new book ""Can't Hurt Me"" is available now via Amazon. https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287",8278.0,True,/Users/Nikita/Desktop/youtube/audio/Joe Rogan Experience #1212 - David Goggins.mp3,https://i.ytimg.com/vi/BvWB7B8tXK8/sddefault.jpg?v=5c086e03,True
+HbGoUwmqIEQ,"Psychedelics, Consciousness, and AI  Richard Dawkins  #256",Jordan B Peterson,"Dr. Richard Dawkins is a British evolutionary biologist, theorist, and one of the world’s foremost atheists. 
+In this episode, Dr. Dawkins and I discuss religion, psychedelics, consciousness, symbolism, postmodernism, and the importance of objective truth. 
+
+—Links—
+To follow Dawkins on Twitter: https://twitter.com/RichardDawkins
+Website: https://richarddawkins.com/ 
+Read Dawkins’ articles: https://richarddawkins.com/articles
+To donate to the Richard Dawkins Foundation for Reason and Science: https://richarddawkins.net/donate
+
+—Chapters—
+[0:00] Intro 
+[1:30] Jordan’s rise to fame, Bill C-16, and free speech
+[5:30] Intimidation and fear of speaking out against the far left
+[9:10]  Micro retreats
+[11:40] Dawkins’ paper about the organism as a model
+[18:30] Female sexual selection
+[21:10] Differences between Jordan's and Dr. Dawkins' thinking 
+[24:00] Jeffrey Gray's work on modeling, psychedelics, and anxiety
+[30:00] Psychedelics, symbolism, and consciousness 
+[41:00] Jordan’s experiences with psilocybin and yoga 
+[45:40] Postmodernism, Lacan, Foucault, and Mikhaila’s Oxford Union debate 
+[52:30] Jordan addresses Dawkins' assertion that despite being against postmodernist thinking he at times utilizes symbolism to speculate in a way which is similar to them.
+[53:50] Finding commonality between myths and symbols across cultures 
+[55:50] False pattern recognition and revelatory thoughts
+[59:20] Objective truth and the scientific process
+[1:07:10] Unpleasant or dangerous truths 
+[1:08:10] The metaphysical vision of the redeeming power of truth
+[1:10:10] Jordan and Dawkins discuss the idea that a narrative drives the process of inquiry, even in regards to objective truth
+[1:12:50] Humans’ ability to understand difficult concepts on a biological level
+[1:16:10] Question: Do you identify the religious impulse with the totalitarian proclivity for dogmatic certainty and the potential acceleration of aggression and atrocity as a consequence? 
+[1:20:10] Question: To what degree do you think that consciousness operates as a fundamental mechanism of selection and shaping?
+[1:23:00] Artificial intelligence and the metaphysical significance of consciousness
+
+// SUPPORT THIS CHANNEL //
+Newsletter: https://linktr.ee/DrJordanBPeterson
+Donations: https://jordanbpeterson.com/donate
+
+// COURSES //
+Discovering Personality: https://jordanbpeterson.com/personality
+Self Authoring Suite: https://selfauthoring.com
+Understand Myself (personality test): https://understandmyself.com
+
+// BOOKS //
+Beyond Order: 12 More Rules for Life: https://jordanbpeterson.com/Beyond-Order
+12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life
+Maps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning
+
+// LINKS //
+Website: https://jordanbpeterson.com
+Events: https://jordanbpeterson.com/events
+Blog: https://jordanbpeterson.com/blog
+Podcast: https://jordanbpeterson.com/podcast
+
+// SOCIAL //
+Twitter: https://twitter.com/jordanbpeterson
+Instagram: https://instagram.com/jordan.b.peterson
+Facebook: https://facebook.com/drjordanpeterson
+Telegram: https://t.me/DrJordanPeterson",5216.0,True,"C:/Users/nikit/youtube/audio/Psychedelics, Consciousness, and AI  Richard Dawkins  #256.mp3",https://i.ytimg.com/vi/HbGoUwmqIEQ/sddefault.jpg,True
+7uHGlfeCBbE,"Noam Chomsky: Putin, Ukraine, China, and Nuclear War  Lex Fridman Podcast #316",Lex Fridman,"Noam Chomsky is a linguist, philosopher, and political activist. Please support this podcast by checking out our sponsors:
+- Skiff: https://skiff.com/lex
+- InsideTracker: https://insidetracker.com/lex to get 20% off
+- Onnit: https://lexfridman.com/onnit to get up to 10% off
+- Blinkist: https://blinkist.com/lex to get 25% off premium
+
+EPISODE LINKS:
+Noam's Website: https://chomsky.info/
+Noam's Instagram: https://instagram.com/noam.chomskyofficial
+Manufacturing Consent (book): https://amzn.to/3KaEc0d
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+Full episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Clips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+OUTLINE:
+0:00 - Introduction
+1:51 - Putin's motivations
+14:57 - War in Ukraine
+22:00 - Propaganda
+29:24 - China and American relations
+44:24 - Hope for humanity
+
+SOCIAL:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Reddit: https://reddit.com/r/lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",2832.0,True,"C:/Users/nikit/youtube/audio/Noam Chomsky: Putin, Ukraine, China, and Nuclear War  Lex Fridman Podcast #316.mp3",https://i.ytimg.com/vi/7uHGlfeCBbE/sddefault.jpg,True
+23dArPpXgCM,Jocko Podcast 98 w Jordan Peterson Breaking Your Wretched Loop Dangerous But Disciplined,Jocko Podcast,"Join the conversation on Twitter/Instagram:
+@jockowillink @jordanBpeterson @echocharles
+
+0:00:00 - Opening
+
+0:21:27 - Who becomes evil?  And Why?
+
+0:31:59 - Taking ultimate responsibility.
+
+0:41:43 - Dangerous but disciplined.
+
+0:59:40 - Discipline and kids psychology.
+
+1:05:08 - How to be successful.  Breaking the loop.
+
+2:04:42 - Self Authoring.
+
+2:34:36 - Determining personality traits.
+
+2:53:35 - The rise of Jordan Peterson.
+
+3:00:29 - Using praise and rewards carefully.  Participation trophies?
+
+3:13:25 - Support JockoStore stuff, Super Krill Oil and Joint Warfare, Origin Brand Apparel, with Jocko White Tea and Psychological Warfare (on iTunes). Extreme Ownership (book), The Discipline Equals Freedom Field Manual.
+
+3:41:39 - Closing Gratitude. 
+
+Self Authoring (code: willink): https://www.selfauthoring.com
+Personality Test (code: willink):  https://www.understandmyself.com",13403.0,True,C:/Users/nikit/youtube/audio/Jocko Podcast 98 w Jordan Peterson Breaking Your Wretched Loop Dangerous But Disciplined.mp3,https://i.ytimg.com/vi/23dArPpXgCM/sddefault.jpg,True
+p3JLaF_4Tz8,Dr Anna Lembke: Understanding  Treating Addiction  Huberman Lab Podcast #33,Andrew Huberman,"This episode I interview Dr. Anna Lembke, MD, Chief of the Stanford Addiction Medicine Dual Diagnosis Clinic at Stanford University School of Medicine. Dr. Lembke is a psychiatrist expert in treating addictions of all kinds: drugs, alcohol, food, sex, video games, gambling, food, medication, etc. Dr. Lembke is also an expert in the opioid crisis, and the author of Dopamine Nation: Finding Balance in the Age of Indulgence (https://amzn.to/3AHHGBp).
+
+We discuss the biology and psychology of why people become addicted to certain substances and behaviors and the key role that our ""dopamine balance"" plays in creating addiction. We also discuss the science and practice of how to conquer addictions, why people relapse and how to avoid relapsing. Dr. Lembke also shares her expertise on topics closely related to addiction such as community, shame and lying and she explains why telling the truth—even about the most basic things in daily life, adjusts dopamine levels in our brain.
+
+This episode is an important one for anyone struggling with addictions of any kind, for their friends and families and for health care professionals. It is also for anyone who has defeated addiction and is determined to stay clean. Last but not least, it helps explain why all humans do what we do, and how we can all maintain a healthy sense of pleasure seeking in life.
+
+#HubermanLab #Addiction #Dopamine
+
+Thank you to our sponsors:
+ROKA - https://www.roka.com/huberman
+InsideTracker - https://www.insidetracker.com/huberman
+Headspace - https://www.headspace.com/specialoffer
+
+Supplements from Thorne:
+http://www.thorne.com/u/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-huberman
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Dr. Anna Lembke Links:
+Website: https://www.annalembke.com
+Stanford Profile: https://profiles.stanford.edu/anna-lembke
+Dopamine Nation (new book): https://amzn.to/3AHHGBp
+
+Timestamps:
+00:00:00 Dr. Anna Lembke, Addiction Expert
+00:02:25 Disclaimer & Sponsors: Roka, InsideTracker, Headspace
+00:07:00 Dopamine, Happiness & Impulsivity 
+00:15:56 What Is Pleasure? 
+00:18:20 Addiction, Boredom & Passion for Life
+00:24:00 Pain-Pleasure Balance Controls Addiction
+00:29:10 Dopamine Deficits, Anhedonia
+00:30:47 Are All Addictions the Same?
+00:35:38 Boredom & Anxiety Lead to Creativity 
+00:40:35 Finding Your Passion Starts with Boredom & Action Steps 
+00:50:05 How to Break an Addiction
+00:55:25 Relapse, Craving & Triggers
+01:07:40 Can People Get Addicted To “Sobriety”? 
+01:11:45 Are We All Wired for Addiction? 
+01:15:57 Bizarre Addiction
+01:18:14 Recovered Addicts Are Heroes
+01:20:10 Lying, Truth Telling, Guilt & Shame
+01:30:40 Clinical Applications of: Ibogaine, Ayahuasca, Psilocybin & MDMA 
+01:40:20 Social Media Addiction 
+01:51:25 Narcissism 
+01:53:30 Goal Seeking, Success & Surprise
+01:58:10 Reciprocity
+02:01:15 Closing Comments, Resources
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",7351.0,True,C:/Users/nikit/youtube/audio/Dr Anna Lembke: Understanding  Treating Addiction  Huberman Lab Podcast #33.mp3,https://i.ytimg.com/vi/p3JLaF_4Tz8/sddefault.jpg,True
+t1F7EEGPQwo,The Science of Setting  Achieving Goals  Huberman Lab Podcast #55,Andrew Huberman,"In this episode, I discuss the science of setting, assessing, and pursuing goals. I explain the neural (brain) circuits that underlie goal setting and pursuit. Then I describe nine science-supported tools anyone can apply toward their goals. I explain when and how to use goal visualization, when to use multitasking and how to use specific rewards to improve the likelihood of reaching your goals. I also explain why envisioning failures and their consequences are effective and how to set goals of the appropriate level of challenge. I also explain how the molecule dopamine is used to gauge our progress toward milestones and long-term overarching goals and how to leverage dopamine for goal pursuit. Finally, I explain a unique tool called 'space-time bridging' that can be used to support all aspects of goal setting, assessment, and pursuit. This episode ought to be useful for anyone seeking to improve their performance in work, school, exercise, athletics, or personal development.
+
+#HubermanLab #Goals #Neuroscience
+
+Thank you to our sponsors:
+LMNT - https://www.drinkLMNT.com/huberman
+Athletic Greens - https://www.athleticgreens.com/huberman
+ROKA - https://www.roka.com - code ""huberman""
+
+Our Patreon page:
+https://www.patreon.com/andrewhuberman
+
+Supplements from Thorne:
+http://www.thorne.com/u/huberman
+
+Social:
+Instagram - https://www.instagram.com/hubermanlab
+Twitter - https://twitter.com/hubermanlab
+Facebook - https://www.facebook.com/hubermanlab
+Website - https://hubermanlab.com
+Newsletter - https://hubermanlab.com/neural-network
+
+Links:
+The 85% Rule for Optimal Learning - https://www.nature.com/articles/s41467-019-12552-4 
+Effects of Narrowing Visual Attention on Goal Pursuit Behavior - https://journals.sagepub.com/doi/10.1177/0146167219861438 
+
+Timestamps:
+00:00:00 The Neuroscience of Goals
+00:01:56 Tool 1: Learn Fast(er) by the 85% Rule 
+00:06:04 LMNT, Athletic Greens, ROKA
+00:13:55 Brain Circuits for Setting & Pursuing Goals
+00:21:52 Determining the Value of Goals 
+00:24:33 Psychology of Goal Setting: Assessing Value, Action Steps
+00:30:29 Peripersonal Space vs. Extrapersonal Space
+00:35:39 Visually Focusing on a Goal Line Improves Performance
+00:43:50 How Vision Improves Performance: Blood Pressure
+00:51:55 Tool 2: Use Focal Vision to Initiate Goal Pursuit
+00:54:40 Tool 3: Use Aged Self-Images to Self-Motivate 
+00:59:33 Tool 4: Visualization of Goals is Only Helpful at the Start 
+01:02:05 Tool 5: Visualizing Failure is the Best Ongoing Motivator
+01:07:26 Tool 6: Make Goals Moderately Lofty 
+01:13:05 Tool 7: Avoid Goal Distraction; Focus on 1-2 Major Goals Per Year
+01:15:57 Tool 8: Ensure Specificity of Goals, Weekly Assessment
+01:19:57 Dopamine, Motivation & Pleasure in Seeking Goals
+01:22:43 Dopamine Reward Prediction Error, Controlling Dopamine
+01:34:26 How Dopamine Influences Vision & Vice Versa
+01:38:10 Interim Summary of Goal-Pursuit Steps
+01:39:50 Tool 9: Space-Time Bridging 
+01:49:59 Summary
+01:51:50 Subscribe, Sponsors, Patreon, Supplements: Thorne, Instagram, Twitter, Newsletter
 
 
+Please note that The Huberman Lab Podcast is distinct from Dr. Huberman's teaching and research roles at Stanford University School of Medicine. The information provided in this show is not medical advice, nor should it be taken or applied as a replacement for medical advice. The Huberman Lab Podcast, its employees, guests and affiliates assume no liability for the application of the information discussed.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",6862.0,True,C:/Users/nikit/youtube/audio/The Science of Setting  Achieving Goals  Huberman Lab Podcast #55.mp3,https://i.ytimg.com/vi/t1F7EEGPQwo/sddefault.jpg,True
+3qMemn__kK8,Michael Stevens: Vsauce  Lex Fridman Podcast #58,Lex Fridman,,3513.0,True,C:/Users/nikit/youtube/audio/Michael Stevens: Vsauce  Lex Fridman Podcast #58.mp3,https://i.ytimg.com/vi/3qMemn__kK8/sddefault.jpg,True
+H5ApNHAPJVU,Jocko Podcast 332: Andrew Huberman Influence Ownership Over Your Physiological Psychological Being,Jocko Podcast,"Underground Premium Content: https://www.jockounderground.com/subscribe
+
+Join the conversation on Twitter/Instagram: @jockowillink @hubermanlab @echocharles
+
+How to stay on THE PATH:
+JOCKO UNDERGROUND Exclusive Episodes: https://www.jockounderground.com/subscribe
+Jocko Store Apparel: https://www.jockostore.com
+Jocko Fuel: https://jockofuel.com
+Origin Jeans and Clothes: https://originmaine.com/durable-goods/
+Echelon Front: https://www.echelonfront.com
+
+Andrew Huberman, Ph.D., is a neuroscientist and tenured Professor in the Department of Neurobiology at the Stanford University School of Medicine. He has made numerous significant contributions to the fields of brain development, brain function and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills and cognitive functioning",18719.0,True,C:/Users/nikit/youtube/audio/Jocko Podcast 332: Andrew Huberman Influence Ownership Over Your Physiological Psychological Being.mp3,https://i.ytimg.com/vi/H5ApNHAPJVU/sddefault.jpg,True
+mVZehtgi3W0,#282 - Lex Fridman  The Tim Dillon Show,The Tim Dillon Show,"Tim has on Lex Fridman in Austin, TX to discuss why Ghislaine and Jeffrey were in love, Robert Maxwell's ties to intelligence, Elon Musk's sense of humor, who Jack Dorsey really is, the future of blockchain technology, and what actually permits you the most freedom in life.
+
+Lex Fridman is an AI researcher at MIT and host of the Lex Fridman Podcast. Here is Lex's recent conversation with Elon: https://www.youtube.com/watch?v=DxREm3s1scA
+You can follow Lex on Twitter here: https://twitter.com/lexfridman
+
+Bonus episodes every week:
+
+▶▶ https://www.patreon.com/thetimdillonshow
+
+See Tim Live on the road:
+
+▶▶ http://timdilloncomedy.com/#shows
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+SUPPORT OUR SPONSORS:
+
+🩳 UNDERWEAR:
+
+Order with PROMO CODE Tim
+
+▶▶ https://www.sheathunderwear.com/
+
+🔒 VPN:
+
+Get three months free
+
+▶▶ https://www.expressvpn.com/timdillon
+
+🔵 BLUE CHEW :
+
+Use promo TD
+
+▶▶ https://bluechew.com/
+
+👨‍🦱 HAIR LOSS:
+
+▶▶ https://www.keeps.com/TimDillon
+
+📦 SHIPPING:
+
+Enter code TIMDILLON
+
+▶▶ https://www.shipstation.com/
+
+🎧 HEADPHONES:
+
+For 15% off!
+
+▶▶ https://www.buyraycon.com/tim
+
+🚬 QUIT SMOKING:
+
+Use code TIM:
+
+▶▶ https://lucy.co
+
+💆THERAPY
+
+▶▶ https://www.betterhelp.com/TIMD
+
+📦 BOX OF AWESOME
+
+▶▶ http://boxofawesome.com use code TIMDILLON at checkout for 20% off
+
+HELLO FRESH
+
+▶▶ Go to https://www.hellofresh.com/timdillon12 for 12 free meals including free shipping!
+
+BIRD DOGS!
+
+▶▶ https://www.birddogs.com/ use code TIMDILLON
+
+DOORDASH
+
+▶▶ Download the Doordash app and enter code TIMDILLON to get 25% off.
+
+MINT MOBILE
+
+▶▶ https://mintmobile.com/timdillon
+
+Get your new wireless bill for 15 bucks a month!
+
+VERSUS GAME
+
+▶▶ https://apps.apple.com/us/app/versusgame/id1536931360
+
+Get five dollars toward your first bet use code TIM!
+
+SIMPLI SAFE
+
+▶▶ https://simplisafe.com/timdillon to save 20%
+
+MUD\WTR
+
+▶▶ https://mudwtr.com/tim use code TIM for $5 off
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+ 
+
+𝐆𝐄𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃:
+
+📸 Instagram:
+
+https://www.instagram.com/timjdillon/
+
+🐦 Twitter:
+
+https://www.twitter.com/TimJDillon
+
+🌍 Tim Dillon Live Dates!:
+
+http://timdilloncomedy.com/#shows
+
+📹 Subscribe to the channel:
+
+https://www.youtube.com/channel/UC161r7ShBvMxfyzCtiSMRbg
+
+Listen on Spotify!
+
+https://open.spotify.com/show/2gRd1woKiAazAKPWPkHjds
+
+ 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+ 
+
+▶▶ Ed McMahon
+
+benavery33@gmail.com
+
+https://www.instagram.com/benaveryisgood/
+
+https://twitter.com/benaveryisgood
+
+ 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+#TheTimDillonShow",6493.0,True,C:/Users/nikit/youtube/audio/#282 - Lex Fridman  The Tim Dillon Show.mp3,https://i.ytimg.com/vi/mVZehtgi3W0/sddefault.jpg,True
+_lDbuAkLxPw,#283 - Joe Rogan  The Tim Dillon Show,The Tim Dillon Show,"Tim Dillon sits down with Joe Rogan in the JRE studio in Austin, TX.
+
+Bonus episodes every week:
+
+▶▶ https://www.patreon.com/thetimdillonshow
+
+See Tim Live on the road:
+
+▶▶ http://timdilloncomedy.com/#shows
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+SUPPORT OUR SPONSORS:
+
+🩳 UNDERWEAR:
+
+Order with PROMO CODE Tim
+
+▶▶ https://www.sheathunderwear.com/
+
+🔒 VPN:
+
+Get three months free
+
+▶▶ https://www.expressvpn.com/timdillon
+
+🔵 BLUE CHEW :
+
+Use promo TD
+
+▶▶ https://bluechew.com/
+
+👨‍🦱 HAIR LOSS:
+
+▶▶ https://www.keeps.com/TimDillon
+
+📦 SHIPPING:
+
+Enter code TIMDILLON
+
+▶▶ https://www.shipstation.com/
+
+🎧 HEADPHONES:
+
+For 15% off!
+
+▶▶ https://www.buyraycon.com/tim
+
+🚬 QUIT SMOKING:
+
+Use code TIM:
+
+▶▶ https://lucy.co
+
+💆THERAPY
+
+▶▶ https://www.betterhelp.com/TIMD
+
+📦 BOX OF AWESOME
+
+▶▶ http://boxofawesome.com use code TIMDILLON at checkout for 20% off
+
+HELLO FRESH
+
+▶▶ Go to https://www.hellofresh.com/timdillon12 for 12 free meals including free shipping!
+
+BIRD DOGS!
+
+▶▶ https://www.birddogs.com/ use code TIMDILLON
+
+DOORDASH
+
+▶▶ Download the Doordash app and enter code TIMDILLON to get 25% off.
+
+MINT MOBILE
+
+▶▶ https://mintmobile.com/timdillon
+
+Get your new wireless bill for 15 bucks a month!
+
+VERSUS GAME
+
+▶▶ https://apps.apple.com/us/app/versusgame/id1536931360
+
+Get five dollars toward your first bet use code TIM!
+
+SIMPLI SAFE
+
+▶▶ https://simplisafe.com/timdillon to save 20%
+
+MUD\WTR
+
+▶▶ https://mudwtr.com/tim use code TIM for $5 off
+
+DRAFTKINGS
+
+▶▶Download the DraftKings Sportsbook app now and use code TIMDILLON
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+ 
+
+𝐆𝐄𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃:
+
+📸 Instagram:
+
+https://www.instagram.com/timjdillon/
+
+🐦 Twitter:
+
+https://www.twitter.com/TimJDillon
+
+🌍 Tim Dillon Live Dates!:
+
+http://timdilloncomedy.com/#shows
+
+📹 Subscribe to the channel:
+
+https://www.youtube.com/channel/UC161r7ShBvMxfyzCtiSMRbg
+
+Listen on Spotify!
+
+https://open.spotify.com/show/2gRd1woKiAazAKPWPkHjds
+
+ 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+ 
+
+▶▶ Ed McMahon
+
+benavery33@gmail.com
+
+https://www.instagram.com/benaveryisgood/
+
+https://twitter.com/benaveryisgood
+
+ 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+#TheTimDillonShow",5532.0,True,C:/Users/nikit/youtube/audio/#283 - Joe Rogan  The Tim Dillon Show.mp3,https://i.ytimg.com/vi/_lDbuAkLxPw/sddefault.jpg,True
+5cGQG1zBKdI,#249 - Jordan Peterson  The Tim Dillon Show,The Tim Dillon Show,"Jordan Peterson joins us to discuss his recovery from addiction, his rise to fame, psychoanalyzes Tim and the false claims against him by the media.
+
+Bonus Episodes every week:
+
+▶▶ https://www.patreon.com/thetimdillonshow
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+SUPPORT OUR SPONSORS:
+
+🩳 UNDERWEAR:
+
+Order with PROMO CODE Tim
+
+▶▶ https://www.sheathunderwear.com/
+
+🔒 VPN:
+
+Get three months free
+
+▶▶ https://www.expressvpn.com/timdillon
+
+🥣 CEREAL:
+
+Use code TimDillon for free shipping!
+
+▶▶ https://magicspoon.com/timdillon
+
+🔵 BLUE CHEW :
+
+Use promo TD
+
+▶▶ https://bluechew.com/
+
+🤖 MANSCAPED:
+
+Use code TIMD
+
+▶▶ https://www.manscaped.com/
+
+👨‍🦱 HAIR LOSS:
+
+▶▶ https://www.keeps.com/TimDillon
+
+📦 SHIPPING:
+
+Enter code TIMDILLON
+
+▶▶ https://www.shipstation.com/
+
+🎧 HEADPHONES:
+
+For 15% off!
+
+▶▶ https://www.buyraycon.com/tim
+
+🤳 COLOGNE AND SKINCARE:
+
+Use code TIM
+
+▶▶ https://hawthorne.co/
+
+🛏️ BEDS:
+
+▶▶ https://helixsleep.com/timdillon
+
+🚗 INSURANCE:
+
+▶▶ https://gabi.com/timdillon
+
+🚬 QUIT SMOKING:
+
+Use code TIM:
+
+▶▶ https://lucy.co
+
+⚓ NICK DAVIS'S PODCAST (BELOW DECK)
+
+▶▶ https://podcasts.apple.com/us/podcast/another-below-deck-podcast/id1216741721
+
+💆THERAPY
+
+▶▶ https://www.betterhelp.com/TIMD
+
+📦 BOX OF AWESOME
+
+▶▶ http://boxofawesome.com use code TIMDILLON at checkout for 20% off
+
+💊 MASF SUPPLEMENTS
+
+▶▶ https://masfsupplements.com/ use code TIMD for 10% OFF
+
+🧴 DUKE CANNON DEODERANT
+
+▶▶ https://dukecannon.com/ use code DILLON for 10% off
+
+💍 NORTHBANDS RINGS
+
+▶▶ https://www.northbands.com/ use promo code TIM for 20% off
+
+BITCOIN CONFERENCE
+
+▶▶ https://b.tc/conference use code TIMDILLON for 10% off
+
+CERTIFIED PIEDMONTESE BEEF
+
+▶▶ 25% OFF with discount code TIMDILLON at https://www.cpbeef.com
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
+
+
+𝐆𝐄𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃:
+
+📸 Instagram:
+
+https://www.instagram.com/timjdillon/
+
+🐦 Twitter:
+
+https://www.twitter.com/TimJDillon
+
+🌍 Tim Dillon Live Dates!:
+
+http://timdilloncomedy.com/#shows
+
+📹 Subscribe to the channel:
+
+https://www.youtube.com/channel/UC161r7ShBvMxfyzCtiSMRbg
+
+Listen on Spotify!
+
+https://open.spotify.com/show/2gRd1woKiAazAKPWPkHjds
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
+
+
+▶▶ Ed McMahon
+
+benavery33@gmail.com
+
+https://www.instagram.com/benaveryisgood/
+
+https://twitter.com/benaveryisgood
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+#TheTimDillonShow",4651.0,True,C:/Users/nikit/youtube/audio/#249 - Jordan Peterson  The Tim Dillon Show.mp3,https://i.ytimg.com/vi/5cGQG1zBKdI/sddefault.jpg,True
+pwaWilO_Pig,Joe Rogan Experience #1109 - Matthew Walker,PowerfulJRE,"Matthew Walker is Professor of Neuroscience and Psychology at the University of California, Berkeley, and Founder and Director of the Center for Human Sleep Science. Check out his book ""Why We Sleep: Unlocking the Power of Sleep and Dreams"" on Amazon. https://www.amazon.com/dp/1501144316",6932.0,True,C:/Users/nikit/youtube/audio/Joe Rogan Experience #1109 - Matthew Walker.mp3,https://i.ytimg.com/vi/pwaWilO_Pig/sddefault.jpg?v=5ae10513,True
+gbQFSMayJxk,Dr Matthew Walker: The Science  Practice of Perfecting Your Sleep  Huberman Lab Podcast #31,Andrew Huberman,"In this episode, my guest is Dr. Matt Walker, Professor of Neuroscience and Psychology and the Founder & Director of the Center for Human Sleep Science at the University of California, Berkeley. He is also the author of the international best-selling book Why We Sleep and the host of ""The Matt Walker Podcast."" We discuss the biology of sleep, including its various stages and what specifically happens to those stages when we don't get enough sleep. We also discuss the effects of sunlight, caffeine, alcohol, naps, hormones, exercise, marijuana, sexual activity, and various supplements on sleep. The episode consists of both basic science information and many science-supported actionable tools. 
+
+#HubermanLab #Sleep
+
+Dr. Matthew Walker:
+Podcast - https://www.sleepdiplomat.com/podcast
+Twitter - https://twitter.com/sleepdiplomat
+Instagram - https://instagram.com/drmattwalker
+Website - https://www.sleepdiplomat.com
+
+Thank you to our sponsors:
+ROKA - https://www.roka.com/huberman
+InsideTracker - https://www.insidetracker.com/huberman
+
+Supplements from Thorne:
+http://www.thorne.com/u/huberman
+
+Social:
+Instagram - https://www.instagram.com/hubermanlab
+Twitter - https://twitter.com/hubermanlab
+Facebook - https://www.facebook.com/hubermanlab
+Website - https://hubermanlab.com
+Join the Neural Network - https://hubermanlab.com/neural-network
+
+Timestamps:
+00:00:00 Introducing Dr. Matt Walker
+00:02:00 Sponsors: Roka, InsideTracker, Belcampo
+00:06:00 What Is Sleep?
+00:10:20 REM (Rapid Eye Movement) aka 'Paradoxical Sleep'
+00:16:15 Slow Wave Sleep aka 'Deep Sleep'
+00:24:00 Compensating For Lost Sleep
+00:32:20 Waking in the Middle Of The Night 
+00:39:48 Uberman (Not Huberman!) Sleep Schedule
+00:42:48 Viewing Morning SUNLight
+00:49:20 Caffeine
+01:07:54 Alcohol
+01:14:30 Growth Hormone & Testosterone
+01:16:14 Emotions, Mental Health & Longevity
+01:20:40 Books vs. Podcasts
+01:21:20 Lunchtime Alcohol
+01:25:00 Marijuana/CBD 
+01:36:00 Melatonin
+01:54:14 Magnesium
+01:58:10 Valerian, Kiwi, Tart Cherry, Apigenin
+02:15:00 Tryptophan & Serotonin
+02:19:24 Naps & Non-Sleep-Deep-Rest (NSDR)
+02:28:23 Is It Possible To Get Too Much Sleep?
+02:34:35 Sex, Orgasm, Masturbation, Oxytocin, Relationships
+02:47:30 Unconventional Yet Powerful Sleep Tips 
+02:59:10 Connecting to & Learning More from Dr. Walker
+03:04:42 The New Dr. Matt Walker Podcast, Reviews & Support
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",11166.0,True,C:/Users/nikit/youtube/audio/Dr Matthew Walker: The Science  Practice of Perfecting Your Sleep  Huberman Lab Podcast #31.mp3,https://i.ytimg.com/vi/gbQFSMayJxk/sddefault.jpg,True
+LVxL_p_kToc,"Dr Erich Jarvis: The Neuroscience of Speech, Language  Music  Huberman Lab Podcast #87",Andrew Huberman,"My guest this episode is Dr. Erich Jarvis, PhD—Professor and the Head of the Laboratory of Neurogenetics of Language at Rockefeller University and Investigator with the Howard Hughes Medical Institute (HHMI). Dr. Jarvis' research spans the molecular and genetic mechanisms of vocal communication, comparative genomics of speech and language across species and the relationship between speech, language and movement. We discuss the unique ability of humans (and certain animal species) to learn and communicate using complex language, including verbal speech production and the ability to interpret both written and spoken language. We also discuss the connections between language, singing and dance and why song may have evolved before language. Dr. Jarvis also explains some of the underlying biological and genetic components of stutter/speech disorders, non-verbal communication, why it's easiest to learn a language as a child and how individuals can learn multiple languages at any age. This episode ought to be of interest to everyone interested in the origins of human speech, language, music and culture and how newer technology, such as social media and texting, change our brains.
+
+#HubermanLab #Neuroscience
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman 
+InsideTracker: https://insidetracker.com/huberman  
+ROKA: https://roka.com/huberman 
+LMNT: https://drinklmnt.com/huberman 
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-hu...
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Dr. Erich Jarvis
+Dr. Erick Jarvis' Lab: https://www.jarvislab.net 
+Rockefeller University: https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1159-erich-d-jarvis
+Google Scholar: https://scholar.google.com/citations?user=cI-fi9MAAAAJ
+Twitter: https://twitter.com/erichjarvis
+Instagram: https://www.instagram.com/erich_d_jarvis
+LinkedIn: https://www.linkedin.com/in/erich-jarvis-ba73624
+
+Other Resources:
+Earth Biogenome Project: https://www.earthbiogenome.org 
+GenomeArk: https://vgp.github.io/genomeark
+
+Timestamps
+00:00:00 Dr. Erich Jarvis & Vocal Communication
+00:03:43 Momentous Supplements 
+00:04:36 InsideTracker, ROKA, LMNT 
+00:08:01 Speech vs. Language, Is There a Difference?  
+00:10:55 Animal Communication, Hand Gestures & Language 
+00:15:25 Vocalization & Innate Language, Evolution of Modern Language    
+00:21:10 Humans & Songbirds, Critical Periods, Genetics, Speech Disorders 
+00:27:11 Innate Predisposition to Learn Language, Cultural Hybridization
+00:31:34 Genes for Speech & Language
+00:35:49 Learning New or Multiple Languages, Critical Periods, Phonemes 
+00:41:39 AG1 (Athletic Greens) 
+00:42:52 Semantic vs. Effective Communication, Emotion, Singing
+00:47:32 Singing, Link Between Dancing & Vocal Learning 
+00:52:55 Motor Theory of Vocal Learning, Dance 
+00:55:03 Music & Dance, Emotional Bonding, Genetic Predispositions
+01:04:11 Facial Expressions & Language, Innate Expressions
+01:09:35 Reading & Writing 
+01:15:13 Writing by Hand vs. Typing, Thoughts & Writing
+01:20:58 Stutter, Neurogenetics, Overcome Stutter, Conversations
+01:26:58 Modern Language Evolution: Texting, Social Media & the Future
+01:36:26 Movement: The Link to Cognitive Growth 
+01:40:21 Comparative Genomics, Earth Biogenome Project, Genome Ark, Conservation
+01:48:24 Evolution of Skin & Fur Color
+01:51:22 Dr. Erich Jarvis, Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Momentous Supplements, AG1 (Athletic Greens), Instagram, Twitter, Neural Network Newsletter, Huberman Lab Clips
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user's own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",6860.0,True,"C:/Users/nikit/youtube/audio/Dr Erich Jarvis: The Neuroscience of Speech, Language  Music  Huberman Lab Podcast #87.mp3",https://i.ytimg.com/vi/LVxL_p_kToc/sddefault.jpg,True
+yb5zpo5WDG4,Focus Toolkit: Tools to Improve Your Focus  Concentration  Huberman Lab Podcast #88,Andrew Huberman,"In this episode, I provide a list of behavioral, nutritional, and supplement-based tools you can use to improve your ability to get into a focused state to do mental or physical work. I explain science-supported strategies for transitioning into focus, maintaining focus during the work bout, and exiting the focus session, which is also critical, including decompression/defocusing tools. I explain when and how to use: binaural beats, caffeine, deliberate cold exposure, the pros and cons of working in fasted vs. fed states, and supplements and foods that enhance dopamine, epinephrine (i.e., adrenaline) and acetylcholine to promote optimal focus. Also, I explain how short behavioral practices, such as meditation and visual gaze training, will benefit your ability to focus over the long term. As deep focus is crucial to significantly improve cognitive or physical performance in any realm, this episode should be useful to anyone. By the end, you’ll have an essential toolkit of science-supported, low- to zero-cost focus and concentration strategies to select from that can be tailored to your physical and mental performance needs.
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+Thesis: https://takethesis.com/huberman
+LMNT: https://drinklmnt.com/huberman
+Eight Sleep: https://www.eightsleep.com/huberman
+Virtusan: https://virtusan.com/huberman
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-huberman
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Articles
+Acute Stress Improves Concentration Performance: https://bit.ly/3wVuJoh
+Human physiological responses to immersion into water of different temperatures: https://bit.ly/3ep6Z5x
+Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators: https://bit.ly/3ai0X4D
+
+Books
+Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body: https://amzn.to/3wXsKj8
+
+Resources
+Huberman Lab Toolkit for Sleep: https://hubermanlab.com/toolkit-for-sleep
+BrainWave (App Store): https://apple.co/3QavGzO
+Brain Waves (Google Play): https://bit.ly/3enO8HP
+White, Pink vs. Brown Noise: https://youtu.be/aiyh2j-BfkQ
+Madefor NSDR: https://youtu.be/pL02HRFk2vo
+Reveri: https://www.reveri.com
+Anna Park Yerba Mate: https://amzn.to/3wzvfrV
+Examine: https://examine.com
+
+Timestamps
+00:00:00 Focus Toolkit 
+00:04:25 Momentous Supplements 
+00:05:38 Thesis, LMNT, Eight Sleep 
+00:09:37 The “Arrow Model” of Focus: Epinephrine, Acetylcholine & Dopamine
+00:15:15 Modulation vs. Mediation, Importance of Sleep
+00:18:11 Tool: Binaural Beats to Improve Concentration 
+00:20:54 Tool: White, Brown & Pink Noise, Transition to Focused State
+00:22:55 Warm-Up for Cognitive Work, Refocusing Attention & Neuroplasticity 
+00:26:14 Tool: Ultradian Cycles: Warm-Up, Maintaining Focus & Deliberate Defocusing 
+00:31:22 How Many Daily Ultradian Cycles Can One Perform? 
+00:34:14 AG1 (Athletic Greens)
+00:35:35 Virtusan: Mental & Physical Health Journeys 
+00:36:52 Tool: Fasted vs. Fed States & Focus, Prevent an Afternoon Crash, Ketosis
+00:45:52 Tool: Foods to Improve Focus & Regulating Food Volume
+00:47:53 Tool: Caffeine & Focused Work, Dopamine Efficacy, Alertness
+00:52:55 Tool: Stress & Improved Concentration 
+00:55:46 Tool: Deliberate Cold Exposure & Focus, Dopamine & Epinephrine 
+01:00:39 Layer Focusing Tools & Design Your Own Protocols 
+01:01:19 Tool: Short Meditation & Improved Ability to Refocus 
+01:07:40 Tool: Yoga Nidra, Non-Sleep Deep Rest (NSDR) & Defocus Periods
+01:12:13 Tool: Hypnosis & Focus/Deep Relaxation States
+01:16:07 Optimal Time of Day to Use Specific Tools
+01:16:46 Tool: Overt Visual Focus & Deliberate Gaze 
+01:20:42 Covert Visual Focus; Deliberate Gaze Warm-Up & Focused Work 
+01:24:43 Tool: Omega-3 Essential Fatty Acids 
+01:27:28 Tool: Creatine Monohydrate 
+01:29:10 Tool: Alpha-GPC & Acetylcholine, Increased Risk of Stroke? & Garlic 
+01:33:52 Tool: L-Tyrosine Supplements & Food
+01:34:47 Combining & Choosing Focus Tools, Variability 
+01:36:50 ADHD Prescriptions, Training Neural Circuits, Maintenance & Reduced Dosage
+01:39:19 Tool: Optimal Order Approaching Focus Tools, Prescriptions & Dependency 
+01:42:56 Tool: Phenylethylamine & Dopamine
+01:44:50 Tool: Other Supplements to Enhance Dopamine, Epinephrine & Acetylcholine 
+01:46:46 Behavioral, Nutrition & Supplement Tools for Focus
+01:49:12 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Momentous Supplements, AG1 (Athletic Greens), Instagram, Twitter, Neural Network Newsletter
+
+Disclaimer: https://hubermanlab.com/disclaimer
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",6691.0,True,C:/Users/nikit/youtube/audio/Focus Toolkit: Tools to Improve Your Focus  Concentration  Huberman Lab Podcast #88.mp3,https://i.ytimg.com/vi/yb5zpo5WDG4/sddefault.jpg,True
+uxZFl4BDOGk,"Dr David Anderson: The Biology of Aggression, Mating,  Arousal  Huberman Lab Podcast #89",Andrew Huberman,"My guest is David Anderson, PhD, a world expert in the science of sexual behavior, violent aggression, fear and other motivated states. Dr. Anderson is a Professor of Biology at the California Institute of Technology (Caltech), a member of the National Academy of Sciences and an investigator with the Howard Hughes Medical Institute (HHMI). We discuss how states of mind (and body) arise and persist and how they probably better explain human behavior than emotions per se. We also discuss the many kinds of arousal that create varying levels of pressure for certain behaviors to emerge. We discuss different types of violent aggression and how they are impacted by biological sex, gender, context, prior experience, and hormones, and the neural interconnectedness of fear, aggression and sexual behavior. We also discuss peptides and their role in social isolation-induced anxiety and aggression. Dr. Anderson also describes novel, potentially powerful therapeutics for mental health. This episode should interest anyone wanting to learn more about mental health, human emotions, sexual and/or violent behavior.  
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman 
+Levels: https://levels.link/huberman
+Helix Sleep: https://helixsleep.com/huberman
+LMNT: https://drinklmnt.com/huberman
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-huberman
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Dr. David Anderson
+Dr. David Anderson: https://davidandersonlab.caltech.edu/davidanderson 
+The Nature of the Beast: https://amzn.to/3qsrdOH
+Dr. David Anderson’s Lab: https://davidandersonlab.caltech.edu 
+Dr. Anderson’s publications: https://bit.ly/3L5uGMl
+
+Articles
+Two Different Forms of Arousal in Drosophila Are Oppositely Regulated by the Dopamine D1 Receptor Ortholog DopR via Distinct Neural Circuits: https://bit.ly/3Dmyh7b
+
+Resources
+Mouse switching from mating behavior to aggressive behaviors upon stimulation of VMH: https://youtu.be/AIlp69kfqjw?t=882 
+VMH stimulation causes mouse to display aggressive behaviors toward an inanimate object (e.g., glove): https://youtu.be/AIlp69kfqjw?t=689
+Picture of Periaqueductal Gray (PAG): https://neuroscientificallychallenged.com/posts/know-your-brain-periaqueductal-gray
+
+Timestamps
+00:00:00 Dr. David Anderson, Emotions & Aggression 
+00:03:33 Momentous Supplements 
+00:04:27 Levels, Helix Sleep, LMNT 
+00:08:10 Emotions vs. States
+00:10:36 Dimensions of States: Persistence, Intensity & Generalization
+00:14:38 Arousal & Valence 
+00:18:11 Aggression, Optogenetics & Stimulating Aggression in Mice, VMH
+00:24:42 Aggression Types: Offensive, Defensive & Predatory 
+00:29:20 Evolution & Development of Defensive vs. Offensive Behaviors, Fear
+00:35:38 Hydraulic Pressures for States & Homeostasis
+00:38:33 AG1 (Athletic Greens)
+00:39:46 Hydraulic Pressure & Aggression
+00:44:50 Balancing Fear & Aggression
+00:48:31 Aggression & Hormones: Estrogen, Progesterone & Testosterone
+00:52:33 Female Aggression, Motherhood
+00:59:48 Mating & Aggressive Behaviors 
+01:05:10 Neurobiology of Sexual Fetishes 
+01:10:06 Temperature, Mating Behavior & Aggression
+01:15:25 Mounting: Sexual Behavior or Dominance?
+01:20:59 Females & Male-Type Mounting Behavior
+01:24:40 PAG (Periaqueductal Gray) Brain Region: Pain Modulation & Fear 
+01:30:38 Tachykinins & Social Isolation: Anxiety, Fear & Aggression 
+01:43:49 Brain, Body & Emotions; Somatic Marker Hypothesis & Vagus Nerve 
+01:52:52 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, AG1 (Athletic Greens), Instagram, Twitter, Neural Network Newsletter, Huberman Lab Clips
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",6935.0,True,"C:/Users/nikit/youtube/audio/Dr David Anderson: The Biology of Aggression, Mating,  Arousal  Huberman Lab Podcast #89.mp3",https://i.ytimg.com/vi/uxZFl4BDOGk/sddefault.jpg,True
+Nr5xb-QCBGA,Dr Casey Halpern: Biology  Treatments for Compulsive Eating  Behaviors  Huberman Lab Podcast #91,Andrew Huberman,"My guest is Casey Halpern, M.D., Chief of Stereotactic and Functional Neurosurgery and Professor of Neurosurgery at the Perelman School of Medicine at the University of Pennsylvania. Dr. Halpern’s research and clinical practice focus on using deep brain stimulation to treat compulsive and movement disorders (e.g., binge eating disorders, bulimia, obsessive-compulsive disorder (OCD) and Parkinson’s disease essential tremor, dystonia). We discuss using deep brain stimulation to help patients who suffer from movement and compulsive disorders and applying this treatment to patients afflicted with binge eating. We also explore applications of this technology to other conditions such as OCD, anorexia and tremor, and the future therapeutic directions of the use of non-invasive brain stimulation approaches, including transcranial magnetic stimulation and ultrasound, for the treatment of other psychiatric illnesses and conditions. This episode will interest those curious about the biology of eating, anorexia, bulimia, compulsive thoughts and behaviors, and movement. 
+
+#HubermanLab #Science #Neuroscience
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+ROKA: https://www.roka.com/huberman 
+Eight Sleep: https://www.eightsleep.com/huberman 
+InsideTracker: https://www.insidetracker.com/huberman 
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-huberman
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Dr. Casey Halpern
+Penn Medicine Profile: https://www.pennmedicine.org/providers/profile/casey-halpern 
+Twitter: https://twitter.com/halpernc 
+LinkedIn: https://www.linkedin.com/in/casey-halpern-a1569749 
+Responsive Neurostimulation For Loss Of Control Eating (DBSLOC) Study: https://www.clinicaltrials.gov/ct2/show/NCT03868670
+
+Articles
+Pilot study of responsive nucleus accumbens deep brain stimulation for loss-of-control eating: https://go.nature.com/3Sc1ZA1
+
+Timestamps
+00:00:00 Dr. Casey Halpern & Disordered Eating & Brain Stimulation
+00:03:18 ROKA, Eight Sleep, InsideTracker
+00:07:19 Momentous Supplements 
+00:08:28 Neurosurgeon’s View of the Brain, Neurosurgery Specialization 
+00:13:05 Deep Brain Stimulation & Other Unexpected Positive Effects 
+00:17:20 Obsessive Compulsive Disorder (OCD), Prescriptions & Cognitive Therapies 
+00:25:40 Brain Areas in OCD, Risk, Rewards & Addiction
+00:31:11 AG1 (Athletic Greens)
+00:32:27 Facial and Vocal Ticks, Stimulants, Stress & Superstition
+00:39:28 Nucleus Accumbens, Reward Circuits, Eating Disorders & Obesity 
+00:47:18 Stimulation of Nucleus Accumbens, Continuous vs. Episodic Stimulation
+00:49:49 Binge Eating Disorder & Loss of Control Eating
+00:53:02 Developing Binge Eating Disorder: Predisposition, Environment, Stress 
+01:02:07 Electrodes in Nucleus Accumbens, Identifying “Craving Cells”
+01:11:41 Effects of Stimulation, Interrupting Craving, Intermediate Stimulation 
+01:16:46 Anorexia, Obesity & Compulsions, Potential Treatments for Anorexia
+01:23:14 Non-Invasive Brain Stimulation, Transcranial Magnetic Stimulation
+01:32:27 MRI-Guided Focused Ultrasound: Tremor, Essential Tremor & Parkinson’s
+01:36:40 Future of Non-Invasive Brain Stimulation, Epilepsy & Depression
+01:41:51 Pre-Behavioral States in Compulsion & Awareness, Mood Provocation
+01:48:02 Machine Learning/Artificial Intelligence & Compulsion Predictions
+01:53:05 Neurosurgeon Hands, Resistance Training & Deadlifts 
+01:59:00 “Neurosurgeon Calm,” Quality Time & Prioritization, Neurosurgeon Training 
+02:09:53 Daily Habits: Sleep, Exercise, Mediation
+02:11:59  Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Neural Network Newsletter, Instagram, Twitter, Facebook, LinkedIn
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",8075.0,True,C:/Users/nikit/youtube/audio/Dr Casey Halpern: Biology  Treatments for Compulsive Eating  Behaviors  Huberman Lab Podcast #91.mp3,https://i.ytimg.com/vi/Nr5xb-QCBGA/sddefault.jpg,True
+uXs-zPc63kM,Nicotines Effects on the Brain  Body  How to Quit Smoking or Vaping  Huberman Lab Podcast #90,Andrew Huberman,"In this episode, I explain how nicotine impacts the brain and body, including its potent ability to enhance attention, focus, and alertness, increase blood pressure and metabolism and reduce appetite. I discuss nicotine’s ability to increase the action of neurochemicals, including dopamine, norepinephrine, and acetylcholine and activate sympathetic (alertness-promoting) neural circuits. I also discuss common nicotine delivery methods, such as cigarettes, vaping, dip, and snuff, and how they each create their own unique experience and how they, but not nicotine itself, cause cancer and other adverse health effects. I also explain science-based tools to permanently quit smoking cigarettes or vaping, including peer-reviewed clinical hypnosis tools, antidepressants, and alternative nicotine replacement (patches, lozenges, gums etc.). As nicotine is one of the most widely used substances with billions of users — most of whom report wanting to quit — this episode ought to be of interest to former/current nicotine users, those who want to quit smoking or vaping and/or those interested in learning the biology behind how nicotine impacts the brain and body. 
+
+#HubermanLab #Science #Health
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman
+Thesis: https://takethesis.com/huberman
+InsideTracker: https://insidetracker.com/huberman
+ROKA: https://www.roka.com/huberman
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-huberman
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Articles
+Predictors of smoking abstinence following a single-session restructuring intervention with self-hypnosis: https://bit.ly/3LoU0gA
+Effect of hypnotic suggestion on cognition and craving in smokers: https://bit.ly/3xtUwEn
+Pharmacological Approach to Smoking Cessation: An Updated Review for Daily Clinical Practice: https://bit.ly/3eTkfiV
+
+Resources
+Reveri: https://www.reveri.com
+
+Timestamps
+00:00:00 Nicotine 
+00:02:47 Momentous Supplements 
+00:03:41 Tool: Brief Daily Meditation & Focus 
+00:05:59 The Arrow Model of Focus, Alpha GPC & Garlic Supplements
+00:10:43 Thesis, InsideTracker, ROKA 
+00:14:35 Nicotine Effects vs. Methods of Delivery, Acetylcholine
+00:19:55 Where is Nicotine Found? Nicotinic Acetylcholine Receptors
+00:25:12 Nicotine & Effects on the Brain: Appetite, Dopamine & GABA
+00:30:58 AG1 (Athletic Greens)
+00:32:11 Nicotine, Acetylcholine & Attentional “Spotlighting”
+00:37:29 Nicotine, Norepinephrine & Alertness/Energy 
+00:41:10 Nicotine & Effects on Appetite & Metabolism
+00:46:47 Nicotine & Effects on Body: Sympathetic Tone
+00:51:29 Nicotine & Cognitive Work vs. Physical Performance 
+00:55:08 Nicotine Delivery Methods & Side Effects, Young People & Dependency 
+00:58:35 Smoking, Vaping, Dipping & Snuffing: Carcinogens & Endothelial Cells 
+01:02:34 Smoking, Vaping, Dipping & Snuffing: Negative Impacts on Lifespan & Health
+01:09:23 How to Quit Smoking, Nicotine Cravings & Withdrawal
+01:13:56 Vaping & Nicotine, Rates of Effect Onset, Dopamine, Addiction & Depression 
+01:25:06 Tool: Quitting Smoking & Clinical Hypnosis, Reveri
+01:30:16 Bupropion (Wellbutrin) & Quitting Smoking 
+01:36:24 Tool: A Nicotine Replacement Schedule to Quit Smoking, Nicotine Patch/Gum
+01:41:52 Tool: Biological Homeostasis & Nicotine Withdrawal, The “First Week” Strategy
+01:51:39 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous Supplements, Neural Network Newsletter, Instagram, Twitter, Facebook
+
+The Huberman Lab Podcast is for general informational purposes only and does not constitute the practice of medicine, nursing or other professional health care services, including the giving of medical advice, and no doctor/patient relationship is formed. The use of information on this podcast or materials linked from this podcast is at the user’s own risk. The content of this podcast is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Users should not disregard or delay in obtaining medical advice for any medical condition they may have and should seek the assistance of their health care professionals for any such conditions.
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",6817.0,True,C:/Users/nikit/youtube/audio/Nicotines Effects on the Brain  Body  How to Quit Smoking or Vaping  Huberman Lab Podcast #90.mp3,https://i.ytimg.com/vi/uXs-zPc63kM/sddefault.jpg,True
+gXvuJu1kt48,The Effects of Cannabis Marijuana on the Brain  Body  Huberman Lab Podcast #92,Andrew Huberman,"In this episode, I discuss cannabis (aka marijuana), including the biological mechanisms underlying its effects on the mind and body, its known medical applications, its impact on libido, creativity, hunger, hormones and more. I also cover the known adverse health consequences of chronic and even acute (one-time) use and the factors that determine if cannabis is helpful or harmful. Additionally, I detail how the various strains of cannabis: sativa, indica and hybrid strains, can produce such divergent effects depending on the strain type, THC-to-CBD ratio, total dosage, and frequency of use. I review why cannabis can impact speech patterns and one’s propensity to develop anxiety/depression during and after use and, in some individuals, paranoia. As the legal landscape for cannabis is rapidly evolving, this episode should interest a wide audience, including former/current cannabis users, those in the medical, sports, law enforcement, and educational communities and, of course, children, teenagers, and parents. 
+
+#HubermanLab #Science #Health
+
+Thank you to our sponsors
+AG1 (Athletic Greens): https://athleticgreens.com/huberman 
+Levels: https://levels.link/huberman 
+Thesis: https://takethesis.com/huberman 
+InsideTracker: https://www.insidetracker.com/huberman 
+
+Supplements from Momentous
+https://www.livemomentous.com/huberman
+
+Huberman Lab Premium
+https://hubermanlab.com/premium
+
+Social & Website
+Instagram: https://www.instagram.com/hubermanlab 
+Twitter: https://twitter.com/hubermanlab 
+Facebook: https://www.facebook.com/hubermanlab 
+TikTok: https://www.tiktok.com/@hubermanlab 
+LinkedIn: https://www.linkedin.com/in/andrew-huberman
+Website: https://hubermanlab.com 
+Newsletter: https://hubermanlab.com/neural-network
+
+Articles
+Inspired by Mary Jane? Mechanisms underlying enhanced creativity in cannabis users: https://bit.ly/3UWZzqT
+Adults with a history of recreational cannabis use have altered speech production: https://bit.ly/3RDBeDS
+Individual prolactin reactivity modulates response of nucleus accumbens to erotic stimuli during acute cannabis intoxication: an fMRI pilot study: https://bit.ly/3y9EcZR
+Bayesian causal network modeling suggests adolescent cannabis use accelerates prefrontal cortical thinning: https://go.nature.com/3CrNToT
+Association of cannabis potency with mental ill health and addiction: a systematic review: https://bit.ly/3ycIwrg
+
+Other Links and Resources
+NSDR Protocol with Dr. Huberman on YouTube: https://youtu.be/AKGrmY8OSHM
+
+Timestamps
+00:00:00 Cannabis (Marijuana) 
+00:04:46 New Huberman Lab Premium Membership 
+00:07:03 Tool: Non-Sleep Deep Rest (NSDR), Sleep & Anxiety
+00:10:08 Levels, Thesis, InsideTracker
+00:14:01 Momentous Supplements 
+00:15:08 Cannabis Strains, Psychoactive Compounds: THC & CBD
+00:19:34 Sativa vs. Indica, Stimulant vs. Relaxation Effects 
+00:25:55 Hybrid Cannabis Strains, Type 1, 2 & 3 Strains
+00:30:41 AG1 (Athletic Greens)
+00:31:56 Naturally Occurring Receptors: Nicotinic & Cannabinoid Receptors (CB1)
+00:40:35 THC, CBD vs. Endogenous Cannabinoids, Dependence 
+00:43:14 Endogenous Cannabinoids, Cannabinoid Receptors & Nervous System Function
+00:53:07 Biological Effects of Cannabis
+00:56:29 Cannabis Sativa & Subjective Effects: Mood, Stress, Alertness, Paranoia
+01:04:58 Cannabis Indica & Subjective Effects, Memory, Dosage
+01:09:41 Brain Areas Affected by THC & CBD, Side Effects 
+01:16:08 Creativity: Convergent vs. Divergent Thinking & Dopamine 
+01:26:41 Does Cannabis Increase Creativity?
+01:35:08 Chronic Cannabis Use & Changes in Speech Patterns
+01:46:46 Cannabis & Libido, Dopamine & Prolactin
+01:56:55 Cannabis & Hormones: Prolactin, Testosterone, Estrogen & Fertility
+02:06:53 Smoking/Vaping Tobacco or Cannabis & Negative Health Consequences
+02:10:06 Avoiding Cannabis During Pregnancy/Breastfeeding, Fetal Neural Development 
+02:18:13 Negative Health Consequences of Cannabis, Anxiety & Depression, Tolerance 
+02:25:57 Cannabis Use & Adolescence/Young Adulthood, Predisposition to Psychosis
+02:34:36 Adolescent Cannabis Use: Brain Development & Mental Health Disorders 
+02:41:44 Cannabis & Pain Management, Divergent Effects of Cannabis
+02:44:54 Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Premium Channel, Momentous Supplements, Neural Network Newsletter, Instagram, Twitter, Facebook, LinkedIn
+
+Disclaimer: https://hubermanlab.com/disclaimer
+
+Title Card Photo Credit: Mike Blabac - https://www.blabacphoto.com",10058.0,False,C:/Users/nikit/youtube/audio/The Effects of Cannabis Marijuana on the Brain  Body  Huberman Lab Podcast #92.mp3,https://i.ytimg.com/vi/gXvuJu1kt48/sddefault.jpg,True
+K7aGuuRp3xQ,"Ep 152  2 Bears, 1 Cave w Tom Segura  Joe Rogan",YMH Studios,"Become a paid channel member of YMH to get 2 Bears one day early + AD-FREE here : https://www.youtube.com/channel/UCYIgiXwJck_Pb5Nj-wIrsqg/join
+
+SPONSORS:
+- Go to https://ShipStation.com/cave and sign up for a FREE 60-day trial.
+- Visit https://TrueClassic.com and use code: BEARS to get 25% off plus free shipping on purchases over $100.
+
+It's another episode of 2 Bears, 1 Cave with Tom Segura and we have guest bear Joe Rogan! We talk about Joe beating Enny in arm wrestling right before cameras started rolling, how athletic Bert Kreischer actually is, and the parameters for Sober October this year. The bears talk about Mark Zuckerberg going on Joe Rogan Experience, failed attempts at canceling Joe, some wild videos on Instagram, and famous mobsters and hitmen. They review Evander Holyfield and Michael Jordan's unsellable homes, Francis Ngannou, and food based Instagram profiles. They talk about Sam's Tailor, the Fatty Arbuckle controversy, how unique Joey Diaz is, and how Joe and Tom met. 
+
+https://tomsegura.com/tour
+https://www.joerogan.com/
+https://www.bertbertbert.com/bertyboytour
+https://store.ymhstudios.com/",6430.0,False,,https://i.ytimg.com/vi/K7aGuuRp3xQ/sddefault.jpg,False
+AJjAKrEHtp0,"Ep 151  2 Bears, 1 Cave w Tom Segura  Bert Kreischer",YMH Studios,"Become a paid channel member of YMH to get 2 Bears one day early + AD-FREE here : https://www.youtube.com/channel/UCYIgiXwJck_Pb5Nj-wIrsqg/join
+
+SPONSORS:
+- Head to https://BeardClub.com/bears and use code: bears for 20% off your first order.
+- Go to https://HelloFresh.com/cave65 and use code: cave65 for 65% off plus free shipping!
+
+It's another week of 2 Bears 1 Cave with Tom Segura and Bert Kreischer! Bert interviews Tom about his inspirations for fitness, sex, comedy and his perspective on funding your own projects. They discuss pioneers in the standup comedy world like Dane Cook and Louis CK, Bert shares what he learned about history on his trip to Italy, and how Jesus definitely wasn't white. They try to see if they can name all the presidents, they call Dr. Andrew Huberman to ask a series of health questions about drinking, fitness and psychedelics and get Lex Fridman to hop on the phone to check in.
+
+https://tomsegura.com/tour
+https://www.bertbertbert.com/bertyboytour
+https://store.ymhstudios.com/",4651.0,False,"C:/Users/nikit/youtube/audio/Ep 151  2 Bears, 1 Cave w Tom Segura  Bert Kreischer.mp3",https://i.ytimg.com/vi/AJjAKrEHtp0/sddefault.jpg,True
+HYYSTKLvYjM,"Ep 149  2 Bears, 1 Cave w Tom Segura  Bert Kreischer",YMH Studios,"Become a paid channel member of YMH to get 2 Bears one day early + AD-FREE here : https://www.youtube.com/channel/UCYIgiXwJck_Pb5Nj-wIrsqg/join
+
+SPONSORS:
+- Go to https://Saatva.com/theshit to get $200 off ANY mattress of your choice.
+- Download the DraftKings Sportsbook app NOW and use promo code BEARS to get TWO HUNDRED DOLLARS in FREE bets INSTANTLY when you place a five-dollar bet on an NFL football game!
+- Visit https://BetterHelp.com/BEARS to get 10% off your first month.
+- Go to https://HelloFresh.com/cave16 and use code: cave16 for 16 free meals across 7 boxes AND 3 free gifts!
+
+It's another week of 2 Bears 1 Cave with Tom Segura and Bert Kreischer! Bert discusses how he dresses like a child, Nadav is a genius, and his daughter going off to college. Tom talks about going to college with Prince Fielder, Bert talks about the differences between him and his daughters, and the bears discuss Andrew Tate getting cancelled. They talk about Bert's knack for promoting, protesting the Garth Brooks concert for YMH Live 8, coffee makers, Bert's trip to Italy, and then Bert runs Tom through his ""power"" questions.
+
+https://tomsegura.com/tour
+https://www.bertbertbert.com/bertyboytour
+https://store.ymhstudios.com/",4294.0,False,"C:/Users/nikit/youtube/audio/Ep 149  2 Bears, 1 Cave w Tom Segura  Bert Kreischer.mp3",https://i.ytimg.com/vi/HYYSTKLvYjM/sddefault.jpg,True
+yaNjaOEaCE8,Joe Rogan Gives Bert Kreischer A Reality Check,JRE & Friends,,341.0,False,C:/Users/nikit/youtube_to_tg/audio/Joe Rogan Gives Bert Kreischer A Reality Check.mp3,C:/Users/nikit/youtube_to_tg/thumbnails/yaNjaOEaCE8.png,False
