@@ -5,9 +5,9 @@ It gets link to youtube playlist, downloads .mp4, extracts .mp3 and uploads to y
 
 - To start you need to log in Telegram API with your phone number (https://core.telegram.org/#getting-started) 
 - With your api_key and api_hash, initialize Pyrogram session (https://docs.pyrogram.org/intro/quickstart) 
-- Then pass path/to/folder where needed, link to your Telegram public channel and link to playlist 
-- The information about all processes is stored in podcast_data.json (mine is not empty as an example) 
-- (Just for fun it is converted to .csv file for simple visualization with framing.py)
+- Then pass path/to/folder in config.py, link to your Telegram public channel and link to playlist 
+- The information about all processes is stored in podcast_data.csv (mine is not empty as an example) 
+- Some stats is done in stats.py just for fun
 
 NOTE:
  - if video is short and getting processed fast, Youtube tends to temporarily block your IP
