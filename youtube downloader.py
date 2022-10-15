@@ -52,7 +52,7 @@ def to_database(link, database: pd.DataFrame) -> pd.DataFrame:
         title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
         performer = you_video.author
         database.loc[video_id, 'title'] = title
-        database.loc[video_id, 'performer'] = performer
+        database.loc[video_id, 'author'] = performer
         database.loc[video_id, 'thumb'] = you_video.thumbnail_url   
         database.loc[video_id, 'duration'] = you_video.length
         database.loc[video_id, 'audio'] = False
@@ -100,7 +100,7 @@ def tg_upload(video_id, database: pd.DataFrame) -> None:
 
     title = database.loc[video_id, 'title']
     path = database.loc[video_id, 'audio_path']
-    performer = database.loc[video_id, 'performer']
+    performer = database.loc[video_id, 'author']
     duration = database.loc[video_id, 'duration']
     thumb = database.loc[video_id, 'thumb']
 
