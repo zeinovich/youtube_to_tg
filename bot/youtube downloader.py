@@ -1,11 +1,10 @@
 import os, sys
 from pathlib import Path
-from datetime import date
+from datetime import datetime
 import requests
 from config import path
 from cursor_module import Cursor
 from pytube import YouTube, Playlist
-from pyrogram import Client
 import psycopg2
 import telebot
 
@@ -29,7 +28,6 @@ def to_database(video_id) -> None:
     if not check_exists:
         author = you_video.author
         title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
-        description = you_video.description
         duration = you_video.length
         curs.insert(columns=['video_id', 'author', 'title', 'duration'], 
                     values=[f"'{video_id}'", f"'{author}'", f"'{title}'", f"'{duration}'"], 
@@ -47,17 +45,17 @@ def download_link(video_id) -> None:
                         table='videos',
                         where=f"video_id = '{video_id}'")[0][0]
 
-    print(f'    Downloading: {title}')
+    print(f'[INFO] Downloading: {title}')
     you_download = you_video.streams.filter(only_audio=True).first()
     f_size = you_download.filesize/1024/1024
-    print(f'    {f_size:.0f} Mb')
+    print(f'[SIZE] {f_size:.0f} Mb')
     try:
         you_download.download(f'{path}/audio', filename=f'{title}.mp3')
         audio_path = f'{path}/audio/{title}.mp3'
         thumb = you_video.thumbnail_url
         download_thumb(thumb, video_id)
         sys.stdout.write("\033[K")
-        print('    Downloaded ')
+        print('[INFO] Downloaded ')
         curs.update(table='videos', 
                     set=f"audio_path = '{audio_path}', thumb = '{thumb}'", 
                     where=f"video_id = '{video_id}'")
@@ -72,8 +70,12 @@ def download_thumb(url, video_id) -> None:
     with open(f, 'wb') as file:
         file.write(thumb.content)
 
+    curs.update(table='videos', 
+                set=f"thumb = '{f}'", 
+                where=f"video_id = '{video_id}'")
+
 def tg_upload(video_id, chat_id) -> None:
-    print('    Uploading to telegram channel')
+    print('[INFO] Uploading to telegram')
 
     title, author, duration, thumb, audio_path = curs.select(
     ['title, author, duration, thumb, audio_path'], 
@@ -81,9 +83,9 @@ def tg_upload(video_id, chat_id) -> None:
 
     bot.send_audio(chat_id=chat_id, audio = open(audio_path, 'rb'), performer=author, title=title, duration=duration, thumb=thumb)
     curs.insert(columns=['video_id', 'chat_id', 'date'], 
-                values=[f"'{video_id}'", f"'{chat_id}'", f"'{date.today()}'"], 
+                values=[f"'{video_id}'", f"'{chat_id}'", f"'{datetime.now()}'"], 
                 table='users')
-    print('    Successfully')
+    print('[INFO] Uploaded')
 
 def main():
     os.chdir(f'{path}')
@@ -120,17 +122,16 @@ def main():
                 print(audio_path)
                 if not audio_path:
                     to_database(video_id)
-                    bot.send_message(message.chat.id, 'Video added to database')
                     download_link(video_id)
-                    bot.send_message(message.chat.id, 'Video downloaded')
                 
                 chat_id = message.chat.id
                 bot.send_message(chat_id, 'Uploading...')
                 tg_upload(video_id, chat_id)
 
         bot.polling(none_stop=True)
+        
     except KeyboardInterrupt:
-        print('KeyboardInterrupt')
+        print('[STOP] KeyboardInterrupt')
         curs.close()
         conn.close()
     
