@@ -1,37 +1,13 @@
-from pytube import YouTube, Playlist
-import os, time, sys
+import os, sys
 from pathlib import Path
-import functools
-from pyrogram import Client
-import pandas as pd
+from datetime import date
 import requests
-from config import session, api_id, api_hash, channel_name, playlist_links, path
-
-#counter decorator
-class counter:
-    def __init__(self, func):
-        self.func = func
-        self.num_of_rep = 0
-
-    def __call__(self, *args, **kwargs):
-        self.num_of_rep += 1
-        if self.func.__name__ == 'download_link':
-            print(f'Video #{self.num_of_rep}')
-        elif self.func.__name__ == 'get_audio':
-            print(f'Audio #{self.num_of_rep}')
-        return(self.func(*args, **kwargs))
-    
-def timing_wrapper(func):
-    @functools.wraps(func)
-    def timing(*args, **kwargs):
-        start = time.perf_counter()
-        print('--------------')
-        result = func(*args, **kwargs)
-        end = time.perf_counter()
-        print(f'[INFO] {func.__name__} executed in {(end - start):.3f}s')
-        print('--------------\n')
-        return result
-    return timing
+from config import path
+from cursor_module import Cursor
+from pytube import YouTube, Playlist
+from pyrogram import Client
+import psycopg2
+import telebot
 
 def get_urls(self) -> list:
     urls = []
@@ -40,109 +16,123 @@ def get_urls(self) -> list:
         urls.extend(iter(pl_urls))
     return urls
 
-def to_database(link, database: pd.DataFrame) -> pd.DataFrame:
-    try:
-        you_video = YouTube(link)
-
-    except Exception:
-        print(f"[ERROR] Link #{links.index(link)+1} has an error in it")
-
-    video_id = you_video.video_id
-    if video_id not in database.index:
-        title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
-        performer = you_video.author
-        database.loc[video_id, 'title'] = title
-        database.loc[video_id, 'performer'] = performer
-        database.loc[video_id, 'thumb'] = you_video.thumbnail_url   
-        database.loc[video_id, 'duration'] = you_video.length
-        database.loc[video_id, 'audio'] = False
-        database.loc[video_id, 'audio_path'] = None
-        database.loc[video_id, 'sent'] = False
-
-    return database      
-    
-@counter
-@timing_wrapper
-def download_link(video_id, database: pd.DataFrame) -> None:
+def to_database(video_id) -> None:
     link = f'https://www.youtube.com/watch?v={video_id}'
     try:
         you_video = YouTube(link)
 
     except Exception:
-        print(f"[ERROR] Link #{links.index(link) + 1} has an error in it")
+        print(f"[ERROR] Link #{video_ids.index(video_id) + 1} has an error in it")
 
-    if not database.loc[video_id, 'audio']:
-        title = database.loc[video_id, "title"]
-        print(f'    Downloading: {title}')
-        you_download = you_video.streams.filter(only_audio=True).first()
-        print(f'    {you_download.filesize/1024/1024:.0f} Mb')
-        try:
-            you_download.download(f'{path}/audio', filename=f'{title}.mp3')
-            database.loc[video_id, 'audio_path'] = f'{path}/audio/{title}.mp3'
-            database.loc[video_id, 'duration'] = you_video.length
-            database.loc[video_id, 'thumb'] = you_video.thumbnail_url
-            sys.stdout.write("\033[K")
-            print('    Downloaded ')
-        except Exception as e:
-            print(f'[ERROR] Exception raised while downloading {title}\n {e}')
-    else:
-        print('    Already downloaded')
+    video_id = you_video.video_id
+    check_exists = curs.check_exists('videos', video_id)
+    if not check_exists:
+        author = you_video.author
+        title = ''.join(ch for ch in you_video.title if ch.isalnum() or ch in [' ','-',',',';',':','#'])
+        description = you_video.description
+        duration = you_video.length
+        curs.insert(columns=['video_id', 'author', 'title', 'duration'], 
+                    values=[f"'{video_id}'", f"'{author}'", f"'{title}'", f"'{duration}'"], 
+                    table='videos')
+    
+def download_link(video_id) -> None:
+    link = f'https://www.youtube.com/watch?v={video_id}'
+    try:
+        you_video = YouTube(link)
 
-def download_thumb(video_id, database: pd.DataFrame) -> None:
-    url = database.loc[video_id, 'thumb']
+    except Exception:
+        print(f"[ERROR] Link #{video_ids.index(link) + 1} has an error in it")
+
+    title = curs.select(columns=['title'],
+                        table='videos',
+                        where=f"video_id = '{video_id}'")[0][0]
+
+    print(f'    Downloading: {title}')
+    you_download = you_video.streams.filter(only_audio=True).first()
+    f_size = you_download.filesize/1024/1024
+    print(f'    {f_size:.0f} Mb')
+    try:
+        you_download.download(f'{path}/audio', filename=f'{title}.mp3')
+        audio_path = f'{path}/audio/{title}.mp3'
+        thumb = you_video.thumbnail_url
+        download_thumb(thumb, video_id)
+        sys.stdout.write("\033[K")
+        print('    Downloaded ')
+        curs.update(table='videos', 
+                    set=f"audio_path = '{audio_path}', thumb = '{thumb}'", 
+                    where=f"video_id = '{video_id}'")
+    except Exception as e:
+        print(f'[ERROR] Exception raised while downloading {title}\n {e}')
+
+
+def download_thumb(url, video_id) -> None:
     thumb = requests.get(url, allow_redirects=True)
     f = f'{path}/thumbnails/{video_id}.png'
-    open(f, 'wb').write(thumb.content)
-    database.loc[video_id, 'thumb'] = f
 
-def tg_upload(video_id, database: pd.DataFrame) -> None:
+    with open(f, 'wb') as file:
+        file.write(thumb.content)
+
+def tg_upload(video_id, chat_id) -> None:
     print('    Uploading to telegram channel')
 
-    title = database.loc[video_id, 'title']
-    path = database.loc[video_id, 'audio_path']
-    performer = database.loc[video_id, 'performer']
-    duration = database.loc[video_id, 'duration']
-    thumb = database.loc[video_id, 'thumb']
+    title, author, duration, thumb, audio_path = curs.select(
+    ['title, author, duration, thumb, audio_path'], 
+    table='videos', where=f"video_id = '{video_id}'")[0]
 
-    app.send_audio(f'{channel_name}', path, performer=performer, title=title, duration=duration, thumb=thumb)
-    database.loc[video_id, 'sent'] = True
-
+    bot.send_audio(chat_id=chat_id, audio = open(audio_path, 'rb'), performer=author, title=title, duration=duration, thumb=thumb)
+    curs.insert(columns=['video_id', 'chat_id', 'date'], 
+                values=[f"'{video_id}'", f"'{chat_id}'", f"'{date.today()}'"], 
+                table='users')
     print('    Successfully')
 
-@timing_wrapper
-def main():    
+def main():
     os.chdir(f'{path}')
     Path('audio').mkdir(exist_ok=True)
     Path('thumbnails').mkdir(exist_ok=True)
 
-    global links 
-    links = get_urls(playlist_links)
+    global bot
+    api_key = '##'
+    bot = telebot.TeleBot(api_key)
 
-    with open('podcast_data.csv','r', encoding='utf8') as file:
-        database = pd.read_csv(file, index_col=0)
+    conn = psycopg2.connect(database='youtube', user='postgres', password='##', host='localhost', port='5432')
+    conn.autocommit = True
+    global curs
+    curs = Cursor(conn)
+    try:
+        @bot.message_handler()
+        def process_msg(message) -> None:    
+            if 'watch?v=' in message.text:
+                links = [message.text]
+                bot.reply_to(message, "You've sent a video link")
+            elif 'playlist?list=' in message.text:
+                links = get_urls([message.text])
+                bot.reply_to(message, "You've sent a playlist link")
+            else:
+                bot.reply_to(message, 'Invalid link')
+                return
 
-    for link in links:
-        database = to_database(link, database)
+            global video_ids
+            video_ids = [link.split('watch?v=')[1] for link in links]
+            
+            # video_id, title, author, description, duration, thumb, audio_path
+            for video_id in video_ids:
+                audio_path = curs.select(['audio_path'], 'videos', f"video_id = '{video_id}'")[0]
+                print(audio_path)
+                if not audio_path:
+                    to_database(video_id)
+                    bot.send_message(message.chat.id, 'Video added to database')
+                    download_link(video_id)
+                    bot.send_message(message.chat.id, 'Video downloaded')
+                
+                chat_id = message.chat.id
+                bot.send_message(chat_id, 'Uploading...')
+                tg_upload(video_id, chat_id)
 
-    global app
-    app = Client(f"{session}", api_id=api_id, api_hash=api_hash)
-    app.start()
-
-    for video_id in database.index:
-        if not database.loc[video_id, 'sent']:
-            try:
-                download_link(video_id, database)
-                download_thumb(video_id, database)
-                tg_upload(video_id, database)
-            except KeyboardInterrupt:
-                print('-------Canceled--------')
-            except Exception as e:
-                print(f'[ERROR] Exception raised while processing {video_id}\n[ERROR] {e}')
-            finally:
-                with open('podcast_data.csv','w', encoding='utf8') as file:
-                    database.to_csv(file)
-
-    app.stop()
-
+        bot.polling(none_stop=True)
+    except KeyboardInterrupt:
+        print('KeyboardInterrupt')
+        curs.close()
+        conn.close()
+    
 if __name__ == '__main__':
     main()
