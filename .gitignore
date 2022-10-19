@@ -2,3 +2,6 @@
 .env
 *.log
 config.py
+TASKS.md
+funcs.py
+.vscode
