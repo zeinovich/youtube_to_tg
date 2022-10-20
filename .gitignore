@@ -5,3 +5,5 @@ config.py
 TASKS.md
 funcs.py
 .vscode
+*.mp3
+*.session
