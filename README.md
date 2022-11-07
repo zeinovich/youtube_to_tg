@@ -1,18 +1,19 @@
 # youtube_to_tg
-Due to recent political issues, Spotify and Youtube have suspended their subscriptions in Russia. As avid podcast listener, I felt frustrated not able to listen to any eng podcast without having youtube always opened on my phone. So I decided to build this project. It took me about a month of time-to-time work to get it smooth. (Important to note, I didn't get deep into youtube's policy on that, so I keep my channel anonymous here)
+I'm building a bot that downloads Youtube videos with some extra functionality.
+1) Choose video or audio only
+2) Choose video or audio codec if you need (e.g. sound producers may need it)
+3) Choose video quality from a list of available
+4) Download files up to 1.5Gb with use of agent
 
-It gets link to youtube playlist, downloads .mp4, extracts .mp3 and uploads to your channel of choice
-
-- To start you need to log in Telegram API with your phone number (https://core.telegram.org/#getting-started) 
-- With your api_key and api_hash, initialize Pyrogram session (https://docs.pyrogram.org/intro/quickstart) 
-- Then pass path/to/folder in config.py, link to your Telegram public channel and link to playlist 
-- The information about all processes is stored in podcast_data.csv (mine is not empty as an example) 
+*Features 2,3,4 are still in development 
+- The information about all processes is stored in postgresql database 
 - Some stats is done in stats.py just for fun
+- It near future bot will be deployed on server (with help of my fellow admin)
 
 NOTE:
- - if video is short and getting processed fast, Youtube tends to temporarily block your IP
+ - if video is short and getting processed fast, Youtube tends to temporarily block IP
  - somewhy thumbs are not shown on lock screen (iOS)
- - raises error on 2 particular videos (KeyError: streamingData), others work fine
+ - raises error on 2 particular videos (KeyError: streamingData), probably because those are age-restricted and require oauth
  
 That's how it looks
 
@@ -22,4 +23,4 @@ That's how it looks
 
 Requirments:
 - Python >3.8
-- Python packages: pytube, moviepy, pyrogram (with tgcrypto)
+- Python packages: pytube, pyrogram (with tgcrypto), telebot, psycopg2
